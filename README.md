@@ -1,10 +1,10 @@
 # Global Health System Performance Diagnostic
 
-A data-driven diagnostic of health system performance across countries, built the way a consultancy engagement is structured: **situation → data-driven diagnosis → prioritised recommendations.**
+A data-driven diagnostic of health system performance across countries: **situation,  data-driven diagnosis,  prioritised recommendations.**
 
 ## Project Objective
 
-Using public global health datasets (WHO Global Health Observatory, World Bank), this project identifies which countries and health system indicators show the greatest inefficiency or inequality, quantifies the gap, and translates the findings into prioritised, actionable recommendations — mirroring a real health systems consultancy deliverable.
+Using public global health datasets (WHO Global Health Observatory, World Bank), this project identifies which countries and health system indicators show the greatest inefficiency or inequality, quantifies the gap, and translates the findings into prioritised, actionable recommendations - aiming for a real health systems consultancy deliverable.
 
 ## Structure
 
@@ -25,7 +25,7 @@ SQL · Python (pandas, matplotlib) · Power BI / Tableau
 
 ## Status
 
-🚧 In progress — built iteratively, day by day. See [progress log](docs/progress-log.md) and [dev diary](docs/DEVLOG.md) for daily updates.
+🚧 In progress - built iteratively, day by day. See [progress log](docs/progress-log.md) and [dev diary](docs/DEVLOG.md) for daily updates.
 
 ## Roadmap
 
