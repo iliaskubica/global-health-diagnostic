@@ -46,4 +46,4 @@ I'm using health data because it's what I know and public data is available, but
 - **Time consistency:** the whole point is daily visible progress; the risk is a busy day breaking the chain. Mitigation: even a 10-minute "read data, note next step" commit counts — the diary entry that day can just say so honestly.
 
 ## Status
-🚧 Planning complete — data sourcing starts Day 2.
+🚧 Planning complete. Day 1–2 spent on repo setup; data sourcing begins Day 3.
