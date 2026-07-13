@@ -24,8 +24,27 @@ Day 2 — source real data from WHO/World Bank into `data/raw`.
 
 ---
 
-## Day 2 — [Title]
+## Day 2 — Finishing Repo Setup
 **Date:** 13 July 2026
+
+**What I did:**
+Uploaded the remaining project files to GitHub via the browser — docs/ROADMAP.md, docs/progress-log.md, and .gitignore at the repo root. Verified the folder structure matches the plan and that links in the README actually resolve.
+
+**Why I made that choice:**
+Realised the initial repo only had the README committed — the rest of the planned structure wasn't actually live yet. Wanted the repo in a clean, complete state before starting real analysis work, so anyone visiting it now sees the full picture, not a half-finished shell.
+
+**What I learned:**
+GitHub's "Upload files" button doesn't let you specify a folder path, but "Create new file" does — typing a path like docs/ROADMAP.md in the filename box auto-creates the folder. Also learned what .gitignore actually does: it tells Git to permanently ignore certain files (temp files, secrets) so they never get committed by mistake.
+
+**What confused me / what I'd do differently:**
+Wasn't sure at first whether .gitignore needed to go inside docs/ or at the root — it's root-level, since it applies to the whole project, not one folder.
+
+**Next up:**
+Day 3 — source real WHO/World Bank health data into data/raw.
+<!-- Copy the block above for each new day -->
+
+## Day 3 — [Title]
+**Date:**
 
 **What I did:**
 
@@ -40,8 +59,3 @@ Day 2 — source real data from WHO/World Bank into `data/raw`.
 
 
 **Next up:**
-
-
----
-
-<!-- Copy the block above for each new day -->
