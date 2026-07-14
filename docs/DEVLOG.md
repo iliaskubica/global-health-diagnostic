@@ -43,19 +43,20 @@ Wasn't sure at first whether .gitignore needed to go inside docs/ or at the root
 Day 3 - source real WHO/World Bank health data into data/raw.
 <!-- Copy the block above for each new day -->
 
-## Day 3 - [Title]
-**Date:**
+## Day 3 - First Real Data Pull
+**Date:** 14 July 2026
 
 **What I did:**
-
+Set up a local Python environment (Python, VS Code, a virtual environment) and wrote my first Python script, which calls the World Bank API to pull four health system indicators (health expenditure per capita, life expectancy, maternal mortality ratio, physicians per 1,000 people) across 15 countries, and saves the result as a clean CSV.
 
 **Why I made that choice:**
-
+Chose the World Bank API over manually downloading CSVs from their website because it's reproducible - anyone (including a future me) can re-run the script and get fresh data, rather than a one-off manual download. That's a stronger, more realistic demonstration of a data pipeline than a static file.
 
 **What I learned:**
-
+What an API actually is (a way for code to request data directly from a service, instead of clicking through a website) and how to call one using Python's requests library. Also learned what a virtual environment is and why it matters (keeps each project's installed packages separate, so projects don't conflict).
 
 **What confused me / what I'd do differently:**
-
+Hit a PowerShell security block when first activating the virtual environment (had to change the execution policy). Also discovered Git wasn't actually installed on this machine yet, despite having pushed files via the GitHub website already - realised browser uploads and local Git are two separate things, and I've only been using the browser method so far.
 
 **Next up:**
+Day 4 - load this data into SQL and start writing queries to find KPIs and outliers.
