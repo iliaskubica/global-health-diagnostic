@@ -2,7 +2,7 @@
 
 ## What I'm doing
 
-Building a data-driven diagnostic of health system performance across countries, using public datasets (WHO Global Health Observatory, World Bank). The end deliverable is structured like a consultancy engagement: a defined problem, an evidence base, a set of prioritised findings, and actionable recommendations — not just a dashboard for its own sake.
+Building a data-driven diagnostic of health system performance across countries, using public datasets (WHO Global Health Observatory, World Bank). The end deliverable is structured like a consultancy engagement: a defined problem, an evidence base, a set of prioritised findings, and actionable recommendations - not just a dashboard for its own sake.
 
 Concretely, I'll:
 1. Pull and clean public health system indicators (e.g. health spend per capita, workforce density, service coverage, outcomes) across a set of countries
@@ -15,7 +15,7 @@ Concretely, I'll:
 
 Two reasons:
 
-**Skills demonstration.** My CV claims I can diagnose people/process/data problems and turn them into recommendations for senior stakeholders (WHO, Phoenix Futures). A recruiter can't verify that from a bullet point — this project is the evidence. It shows the SQL, Python, and dashboarding tools listed on my CV are real, working skills, not just words.
+**Skills demonstration.** My CV claims I can diagnose people/process/data problems and turn them into recommendations for senior stakeholders (WHO, Phoenix Futures). A recruiter can't verify that from a bullet point - this project is the evidence. It shows the SQL, Python, and dashboarding tools listed on my CV are real, working skills, not just words.
 
 **Genuine interest.** Global health is where I want to build a career, and this lets me go deeper into system-level performance data than my past roles required, on my own initiative.
 
