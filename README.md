@@ -7,6 +7,8 @@ A data-driven diagnostic of health system performance across countries, built th
 Using public global health datasets (WHO Global Health Observatory, World Bank), this project identifies which countries and health system indicators show the greatest inefficiency or inequality, quantifies the gap, and translates the findings into prioritised, actionable recommendations - mirroring a real health systems consultancy deliverable.
 
 ## Structure
+
+```
 global-health-diagnostic/
 ├── data/
 │   ├── raw/            # Original, unmodified source data
@@ -15,6 +17,8 @@ global-health-diagnostic/
 ├── notebooks/          # Python analysis (exploration, stats, visuals)
 ├── dashboard/          # Dashboard files (Power BI / Tableau / web)
 └── docs/               # Findings briefing, methodology notes
+```
+
 ## Tools
 
 SQL, Python (pandas, matplotlib), Power BI / Tableau
