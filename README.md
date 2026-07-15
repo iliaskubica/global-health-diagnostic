@@ -1,4 +1,4 @@
-markdown# Global Health System Performance Diagnostic
+# Global Health System Performance Diagnostic
 
 A data-driven diagnostic of health system performance across countries, built the way a consultancy engagement is structured: situation - data-driven diagnosis - prioritised recommendations.
 
@@ -15,7 +15,6 @@ global-health-diagnostic/
 ├── notebooks/          # Python analysis (exploration, stats, visuals)
 ├── dashboard/          # Dashboard files (Power BI / Tableau / web)
 └── docs/               # Findings briefing, methodology notes
-
 ## Tools
 
 SQL, Python (pandas, matplotlib), Power BI / Tableau
