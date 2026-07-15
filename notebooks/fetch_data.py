@@ -4,9 +4,10 @@
 
 import requests   # lets us call the API
 import pandas as pd  # lets us organise the results into a table
+import time  # lets us pause between requests, to avoid being rate-limited
 
-# The 15 countries we're comparing, using their World Bank 3-letter codes
-countries = "GBR;USA;JPN;BRA;ZAF;IND;NGA;DEU;KEN;VNM;MEX;BGD;FRA;GHA;IDN"
+# The countries we're comparing, using their World Bank 3-letter codes
+countries = "GBR;USA;JPN;BRA;ZAF;IND;NGA;DEU;KEN;VNM;MEX;BGD;FRA;GHA;IDN;CAN"
 
 # The 4 indicators we're pulling, with a friendly name for each
 indicators = {
@@ -22,13 +23,19 @@ all_rows = []  # we'll collect every data point here before saving
 for code, name in indicators.items():
     url = f"https://api.worldbank.org/v2/country/{countries}/indicator/{code}"
     params = {"format": "json", "per_page": 1000, "date": "2015:2023"}
-    
+
     response = requests.get(url, params=params)
-    data = response.json()
-    
+
+    try:
+        data = response.json()
+    except ValueError:
+        print(f"Failed to parse response for {name}. Raw response was:")
+        print(response.text[:300])
+        continue  # skip this indicator, move to the next one
+
     # The API returns [metadata, actual_data] — we want the second part
     records = data[1]
-    
+
     for record in records:
         all_rows.append({
             "country": record["country"]["value"],
@@ -37,8 +44,10 @@ for code, name in indicators.items():
             "year": record["date"],
             "value": record["value"],
         })
-    
+
     print(f"Fetched {name}: {len(records)} records")
+
+    time.sleep(1)  # wait 1 second before the next request, to avoid rate limiting
 
 # Turn our collected rows into a table (DataFrame) and save it
 df = pd.DataFrame(all_rows)
