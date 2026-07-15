@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Large raw data (keep repo light — comment out if you want to track them)
+# data/raw/*.csv
