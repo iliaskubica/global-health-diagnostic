@@ -26,6 +26,9 @@ SQL, Python (pandas, matplotlib), Power BI / Tableau
 ## Status
 
 In progress - built iteratively, day by day. Days 1-2: repo and profile setup. Days 3-4: first real data pulled via the World Bank API, local Git connected, first bug fixed. See [progress log](docs/progress-log.md) and [dev diary](docs/DEVLOG.md) for daily updates.
+## Skills in Practice
+
+Beyond the tools listed above, this project has been a hands-on way to build real fluency in Python fundamentals (loops, dictionaries, f-strings), Git version control, and debugging - not just running pre-written code, but understanding and fixing it.
 
 ## Roadmap
 

@@ -21,3 +21,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Resolved a merge conflict between local and GitHub history
 - Fixed a rate-limiting bug in the data fetch script
 - Learned to read
+
+## Day 5 - Python fundamentals practice
+- Practiced core Python concepts: loops, dictionaries, f-strings
+- Small README update

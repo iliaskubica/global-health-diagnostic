@@ -84,19 +84,20 @@ Day 5 - load this data into SQL and start writing queries.
 
 ---
 
-## Day 5 - [Title]
-**Date:**
+## Day 5 - Python Fundamentals
+**Date:** 16 July 2026
 
 **What I did:**
-
+Spent time solidifying core Python concepts - loops, dictionaries, f-strings - by reasoning through small examples rather than just running pre-written code. Also made a small README update reflecting the skills being built through the project.
 
 **Why I made that choice:**
-
+Realised understanding the code well enough to explain it matters more than just having it run - especially for interviews where I might be asked to walk through logic I've written.
 
 **What I learned:**
-
+How a for loop steps through a dictionary's items() one pair at a time, and how f-strings insert variable values into text.
 
 **What confused me / what I'd do differently:**
 
 
 **Next up:**
+Day 6 - load the data into SQL and start writing queries.
