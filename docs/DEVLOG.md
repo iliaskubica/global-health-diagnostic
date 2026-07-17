@@ -99,5 +99,39 @@ How a for loop steps through a dictionary's items() one pair at a time, and how 
 **What confused me / what I'd do differently:**
 
 
+## Day 6 - SQL Setup Begins
+**Date:** 17 July 2026
+
+**What I did:**
+Started building load_to_sql.py to load the CSV data into a proper SQLite database, ready for writing SQL queries. Also went back and fixed a data quality gap in fetch_data.py - added a unit column so every value states what it's measured in (e.g. current US$, years, per 1,000 people), instead of just a bare number.
+
+**Why I made that choice:**
+Noticed the value column had no unit attached, which is a real gap - a recruiter or interviewer could reasonably ask "what currency/unit is this in," and the data itself should answer that, not just my memory of the source.
+
+**What I learned:**
+The difference between pd.to_csv() (save data to a file) and pd.read_csv() (load it back in) - they're mirror opposites. Also learned that a CSV is a flat, static file, while a SQL database is what actually lets you ask structured questions of the data (filter, sort, group).
+
+**What confused me / what I'd do differently:**
+Hit another transient API error partway through re-fetching data (same rate-limiting pattern as Day 4) - handled it calmly this time by just retrying, rather than treating it as a crisis.
+
 **Next up:**
-Day 6 - load the data into SQL and start writing queries.
+Day 7 - finish load_to_sql.py, write first real SQL queries.
+
+---
+
+## Day 7 - [Title]
+**Date:**
+
+**What I did:**
+
+
+**Why I made that choice:**
+
+
+**What I learned:**
+
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**

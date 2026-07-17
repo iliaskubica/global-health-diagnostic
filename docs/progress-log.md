@@ -25,3 +25,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 5 - Python fundamentals practice
 - Practiced core Python concepts: loops, dictionaries, f-strings
 - Small README update
+
+## Day 6 - SQL setup and data quality fix
+- Added a unit column to indicator data for clarity (currency, years, per-1000, etc.)
+- Started building a script to load data into a SQLite database
