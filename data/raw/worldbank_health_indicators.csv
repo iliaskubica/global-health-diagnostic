@@ -1,577 +1,577 @@
-country,country_code,indicator,year,value
-Bangladesh,BGD,health_expenditure_per_capita,2023,53.46432495
-Bangladesh,BGD,health_expenditure_per_capita,2022,56.62142181
-Bangladesh,BGD,health_expenditure_per_capita,2021,56.09640121
-Bangladesh,BGD,health_expenditure_per_capita,2020,49.0274353
-Bangladesh,BGD,health_expenditure_per_capita,2019,45.07677078
-Bangladesh,BGD,health_expenditure_per_capita,2018,44.78892899
-Bangladesh,BGD,health_expenditure_per_capita,2017,42.17510986
-Bangladesh,BGD,health_expenditure_per_capita,2016,39.30647659
-Bangladesh,BGD,health_expenditure_per_capita,2015,33.20998764
-Brazil,BRA,health_expenditure_per_capita,2023,1009.83563232
-Brazil,BRA,health_expenditure_per_capita,2022,871.27526855
-Brazil,BRA,health_expenditure_per_capita,2021,768.27075195
-Brazil,BRA,health_expenditure_per_capita,2020,680.76843262
-Brazil,BRA,health_expenditure_per_capita,2019,868.17248535
-Brazil,BRA,health_expenditure_per_capita,2018,880.28430176
-Brazil,BRA,health_expenditure_per_capita,2017,954.75012207
-Brazil,BRA,health_expenditure_per_capita,2016,810.20037842
-Brazil,BRA,health_expenditure_per_capita,2015,796.15252686
-Canada,CAN,health_expenditure_per_capita,2023,6186.65234375
-Canada,CAN,health_expenditure_per_capita,2022,6252.34033203
-Canada,CAN,health_expenditure_per_capita,2021,6511.46972656
-Canada,CAN,health_expenditure_per_capita,2020,5646.19433594
-Canada,CAN,health_expenditure_per_capita,2019,5098.88720703
-Canada,CAN,health_expenditure_per_capita,2018,5052.90185547
-Canada,CAN,health_expenditure_per_capita,2017,4894.7734375
-Canada,CAN,health_expenditure_per_capita,2016,4647.14892578
-Canada,CAN,health_expenditure_per_capita,2015,4658.83789063
-Germany,DEU,health_expenditure_per_capita,2023,6394.62255859
-Germany,DEU,health_expenditure_per_capita,2022,6226.14208984
-Germany,DEU,health_expenditure_per_capita,2021,6653.58349609
-Germany,DEU,health_expenditure_per_capita,2020,5906.80615234
-Germany,DEU,health_expenditure_per_capita,2019,5447.31787109
-Germany,DEU,health_expenditure_per_capita,2018,5473.55712891
-Germany,DEU,health_expenditure_per_capita,2017,5039.35302734
-Germany,DEU,health_expenditure_per_capita,2016,4723.32421875
-Germany,DEU,health_expenditure_per_capita,2015,4605.59033203
-France,FRA,health_expenditure_per_capita,2023,5149.0546875
-France,FRA,health_expenditure_per_capita,2022,4857.73388672
-France,FRA,health_expenditure_per_capita,2021,5364.89746094
-France,FRA,health_expenditure_per_capita,2020,4760.08251953
-France,FRA,health_expenditure_per_capita,2019,4519.98583984
-France,FRA,health_expenditure_per_capita,2018,4692.99511719
-France,FRA,health_expenditure_per_capita,2017,4436.63720703
-France,FRA,health_expenditure_per_capita,2016,4289.34716797
-France,FRA,health_expenditure_per_capita,2015,4226.62646484
-United Kingdom,GBR,health_expenditure_per_capita,2023,5407.17041016
-United Kingdom,GBR,health_expenditure_per_capita,2022,5111.81738281
-United Kingdom,GBR,health_expenditure_per_capita,2021,5645.40136719
-United Kingdom,GBR,health_expenditure_per_capita,2020,4865.97802734
-United Kingdom,GBR,health_expenditure_per_capita,2019,4260.03222656
-United Kingdom,GBR,health_expenditure_per_capita,2018,4233.62988281
-United Kingdom,GBR,health_expenditure_per_capita,2017,3938.65234375
-United Kingdom,GBR,health_expenditure_per_capita,2016,4043.35253906
-United Kingdom,GBR,health_expenditure_per_capita,2015,4470.09228516
-Ghana,GHA,health_expenditure_per_capita,2023,70.25730896
-Ghana,GHA,health_expenditure_per_capita,2022,82.32108307
-Ghana,GHA,health_expenditure_per_capita,2021,94.40388489
-Ghana,GHA,health_expenditure_per_capita,2020,97.37677765
-Ghana,GHA,health_expenditure_per_capita,2019,71.14958191
-Ghana,GHA,health_expenditure_per_capita,2018,53.37788773
-Ghana,GHA,health_expenditure_per_capita,2017,54.10602188
-Ghana,GHA,health_expenditure_per_capita,2016,64.86400604
-Ghana,GHA,health_expenditure_per_capita,2015,78.21643066
-Indonesia,IDN,health_expenditure_per_capita,2023,131.77729797
-Indonesia,IDN,health_expenditure_per_capita,2022,127.44384766
-Indonesia,IDN,health_expenditure_per_capita,2021,158.89761353
-Indonesia,IDN,health_expenditure_per_capita,2020,131.8225708
-Indonesia,IDN,health_expenditure_per_capita,2019,118.22380829
-Indonesia,IDN,health_expenditure_per_capita,2018,110.71585846
-Indonesia,IDN,health_expenditure_per_capita,2017,110.32610321
-Indonesia,IDN,health_expenditure_per_capita,2016,106.40021515
-Indonesia,IDN,health_expenditure_per_capita,2015,96.15701294
-India,IND,health_expenditure_per_capita,2023,84.68669891
-India,IND,health_expenditure_per_capita,2022,81.50888824
-India,IND,health_expenditure_per_capita,2021,75.54971313
-India,IND,health_expenditure_per_capita,2020,63.83099747
-India,IND,health_expenditure_per_capita,2019,60.6913681
-India,IND,health_expenditure_per_capita,2018,57.46551132
-India,IND,health_expenditure_per_capita,2017,56.66844559
-India,IND,health_expenditure_per_capita,2016,59.72652817
-India,IND,health_expenditure_per_capita,2015,58.12401581
-Japan,JPN,health_expenditure_per_capita,2023,3638.19287109
-Japan,JPN,health_expenditure_per_capita,2022,4201.79248047
-Japan,JPN,health_expenditure_per_capita,2021,4843.94433594
-Japan,JPN,health_expenditure_per_capita,2020,4581.60986328
-Japan,JPN,health_expenditure_per_capita,2019,4431.29980469
-Japan,JPN,health_expenditure_per_capita,2018,4265.77929688
-Japan,JPN,health_expenditure_per_capita,2017,4135.24316406
-Japan,JPN,health_expenditure_per_capita,2016,4194.22802734
-Japan,JPN,health_expenditure_per_capita,2015,3754.18115234
-Kenya,KEN,health_expenditure_per_capita,2023,84.958992
-Kenya,KEN,health_expenditure_per_capita,2022,91.18416595
-Kenya,KEN,health_expenditure_per_capita,2021,94.20249176
-Kenya,KEN,health_expenditure_per_capita,2020,86.5921936
-Kenya,KEN,health_expenditure_per_capita,2019,85.64528656
-Kenya,KEN,health_expenditure_per_capita,2018,75.27681732
-Kenya,KEN,health_expenditure_per_capita,2017,66.46552277
-Kenya,KEN,health_expenditure_per_capita,2016,73.88768005
-Kenya,KEN,health_expenditure_per_capita,2015,70.94755554
-Mexico,MEX,health_expenditure_per_capita,2023,760.98840332
-Mexico,MEX,health_expenditure_per_capita,2022,650.97070313
-Mexico,MEX,health_expenditure_per_capita,2021,606.13415527
-Mexico,MEX,health_expenditure_per_capita,2020,535.11669922
-Mexico,MEX,health_expenditure_per_capita,2019,549.72601318
-Mexico,MEX,health_expenditure_per_capita,2018,528.26306152
-Mexico,MEX,health_expenditure_per_capita,2017,512.54974365
-Mexico,MEX,health_expenditure_per_capita,2016,489.92230225
-Mexico,MEX,health_expenditure_per_capita,2015,553.91259766
-Nigeria,NGA,health_expenditure_per_capita,2023,66.82009125
-Nigeria,NGA,health_expenditure_per_capita,2022,89.62958527
-Nigeria,NGA,health_expenditure_per_capita,2021,81.87322235
-Nigeria,NGA,health_expenditure_per_capita,2020,67.91384888
-Nigeria,NGA,health_expenditure_per_capita,2019,67.6254425
-Nigeria,NGA,health_expenditure_per_capita,2018,63.60244751
-Nigeria,NGA,health_expenditure_per_capita,2017,70.31814575
-Nigeria,NGA,health_expenditure_per_capita,2016,75.52328491
-Nigeria,NGA,health_expenditure_per_capita,2015,92.91207123
-United States,USA,health_expenditure_per_capita,2023,13473.19335938
-United States,USA,health_expenditure_per_capita,2022,12586.19628906
-United States,USA,health_expenditure_per_capita,2021,12080.07324219
-United States,USA,health_expenditure_per_capita,2020,11648.49511719
-United States,USA,health_expenditure_per_capita,2019,10550.22070313
-United States,USA,health_expenditure_per_capita,2018,10180.48242188
-United States,USA,health_expenditure_per_capita,2017,9822.60644531
-United States,USA,health_expenditure_per_capita,2016,9535.60058594
-United States,USA,health_expenditure_per_capita,2015,9200.93164063
-Viet Nam,VNM,health_expenditure_per_capita,2023,197.19210815
-Viet Nam,VNM,health_expenditure_per_capita,2022,188.22650146
-Viet Nam,VNM,health_expenditure_per_capita,2021,168.09350586
-Viet Nam,VNM,health_expenditure_per_capita,2020,153.10160828
-Viet Nam,VNM,health_expenditure_per_capita,2019,171.15296936
-Viet Nam,VNM,health_expenditure_per_capita,2018,161.97871399
-Viet Nam,VNM,health_expenditure_per_capita,2017,147.51425171
-Viet Nam,VNM,health_expenditure_per_capita,2016,133.1960144
-Viet Nam,VNM,health_expenditure_per_capita,2015,121.43981171
-South Africa,ZAF,health_expenditure_per_capita,2023,536.58843994
-South Africa,ZAF,health_expenditure_per_capita,2022,570.48028564
-South Africa,ZAF,health_expenditure_per_capita,2021,592.9465332
-South Africa,ZAF,health_expenditure_per_capita,2020,503.46759033
-South Africa,ZAF,health_expenditure_per_capita,2019,538.80438232
-South Africa,ZAF,health_expenditure_per_capita,2018,558.80145264
-South Africa,ZAF,health_expenditure_per_capita,2017,527.52026367
-South Africa,ZAF,health_expenditure_per_capita,2016,456.56936646
-South Africa,ZAF,health_expenditure_per_capita,2015,491.90652466
-Bangladesh,BGD,life_expectancy,2023,74.672
-Bangladesh,BGD,life_expectancy,2022,74.265
-Bangladesh,BGD,life_expectancy,2021,71.103
-Bangladesh,BGD,life_expectancy,2020,71.421
-Bangladesh,BGD,life_expectancy,2019,72.625
-Bangladesh,BGD,life_expectancy,2018,72.122
-Bangladesh,BGD,life_expectancy,2017,71.606
-Bangladesh,BGD,life_expectancy,2016,71.075
-Bangladesh,BGD,life_expectancy,2015,70.543
-Brazil,BRA,life_expectancy,2023,75.848
-Brazil,BRA,life_expectancy,2022,74.872
-Brazil,BRA,life_expectancy,2021,73.038
-Brazil,BRA,life_expectancy,2020,74.506
-Brazil,BRA,life_expectancy,2019,75.809
-Brazil,BRA,life_expectancy,2018,75.633
-Brazil,BRA,life_expectancy,2017,75.383
-Brazil,BRA,life_expectancy,2016,75.081
-Brazil,BRA,life_expectancy,2015,75.106
-Canada,CAN,life_expectancy,2023,81.6263414634146
-Canada,CAN,life_expectancy,2022,81.0948780487805
-Canada,CAN,life_expectancy,2021,81.4514634146342
-Canada,CAN,life_expectancy,2020,81.53
-Canada,CAN,life_expectancy,2019,82.1585365853659
-Canada,CAN,life_expectancy,2018,81.8036585365854
-Canada,CAN,life_expectancy,2017,81.8078048780488
-Canada,CAN,life_expectancy,2016,81.94
-Canada,CAN,life_expectancy,2015,81.8258536585366
-Germany,DEU,life_expectancy,2023,81.0414634146342
-Germany,DEU,life_expectancy,2022,80.6080487804878
-Germany,DEU,life_expectancy,2021,80.790243902439
-Germany,DEU,life_expectancy,2020,81.0414634146342
-Germany,DEU,life_expectancy,2019,81.2926829268293
-Germany,DEU,life_expectancy,2018,80.8926829268293
-Germany,DEU,life_expectancy,2017,80.9926829268293
-Germany,DEU,life_expectancy,2016,80.990243902439
-Germany,DEU,life_expectancy,2015,80.6414634146341
-France,FRA,life_expectancy,2023,82.8317073170732
-France,FRA,life_expectancy,2022,82.1292682926829
-France,FRA,life_expectancy,2021,82.3243902439024
-France,FRA,life_expectancy,2020,82.1756097560976
-France,FRA,life_expectancy,2019,82.8268292682927
-France,FRA,life_expectancy,2018,82.6756097560976
-France,FRA,life_expectancy,2017,82.5756097560976
-France,FRA,life_expectancy,2016,82.5731707317073
-France,FRA,life_expectancy,2015,82.3219512195122
-United Kingdom,GBR,life_expectancy,2023,81.2380975609756
-United Kingdom,GBR,life_expectancy,2022,81.0112195121951
-United Kingdom,GBR,life_expectancy,2021,80.6473170731707
-United Kingdom,GBR,life_expectancy,2020,80.331756097561
-United Kingdom,GBR,life_expectancy,2019,81.3691219512195
-United Kingdom,GBR,life_expectancy,2018,81.2560975609756
-United Kingdom,GBR,life_expectancy,2017,81.2560975609756
-United Kingdom,GBR,life_expectancy,2016,81.1560975609756
-United Kingdom,GBR,life_expectancy,2015,80.9560975609756
-Ghana,GHA,life_expectancy,2023,65.498
-Ghana,GHA,life_expectancy,2022,65.246
-Ghana,GHA,life_expectancy,2021,64.286
-Ghana,GHA,life_expectancy,2020,64.309
-Ghana,GHA,life_expectancy,2019,64.455
-Ghana,GHA,life_expectancy,2018,64.138
-Ghana,GHA,life_expectancy,2017,63.829
-Ghana,GHA,life_expectancy,2016,63.522
-Ghana,GHA,life_expectancy,2015,63.175
-Indonesia,IDN,life_expectancy,2023,71.146
-Indonesia,IDN,life_expectancy,2022,70.925
-Indonesia,IDN,life_expectancy,2021,67.452
-Indonesia,IDN,life_expectancy,2020,68.817
-Indonesia,IDN,life_expectancy,2019,70.349
-Indonesia,IDN,life_expectancy,2018,70.08
-Indonesia,IDN,life_expectancy,2017,69.953
-Indonesia,IDN,life_expectancy,2016,69.733
-Indonesia,IDN,life_expectancy,2015,69.52
-India,IND,life_expectancy,2023,72.003
-India,IND,life_expectancy,2022,71.698
-India,IND,life_expectancy,2021,67.282
-India,IND,life_expectancy,2020,70.156
-India,IND,life_expectancy,2019,70.746
-India,IND,life_expectancy,2018,70.415
-India,IND,life_expectancy,2017,70.068
-India,IND,life_expectancy,2016,69.709
-India,IND,life_expectancy,2015,69.326
-Japan,JPN,life_expectancy,2023,84.0412195121951
-Japan,JPN,life_expectancy,2022,83.9963414634146
-Japan,JPN,life_expectancy,2021,84.4456097560976
-Japan,JPN,life_expectancy,2020,84.56
-Japan,JPN,life_expectancy,2019,84.3563414634146
-Japan,JPN,life_expectancy,2018,84.2109756097561
-Japan,JPN,life_expectancy,2017,84.099756097561
-Japan,JPN,life_expectancy,2016,83.9848780487805
-Japan,JPN,life_expectancy,2015,83.7939024390244
-Kenya,KEN,life_expectancy,2023,63.646
-Kenya,KEN,life_expectancy,2022,63.549
-Kenya,KEN,life_expectancy,2021,61.225
-Kenya,KEN,life_expectancy,2020,61.596
-Kenya,KEN,life_expectancy,2019,62.939
-Kenya,KEN,life_expectancy,2018,62.825
-Kenya,KEN,life_expectancy,2017,62.725
-Kenya,KEN,life_expectancy,2016,62.526
-Kenya,KEN,life_expectancy,2015,62.279
-Mexico,MEX,life_expectancy,2023,75.069
-Mexico,MEX,life_expectancy,2022,73.973
-Mexico,MEX,life_expectancy,2021,69.75
-Mexico,MEX,life_expectancy,2020,70.449
-Mexico,MEX,life_expectancy,2019,74.53
-Mexico,MEX,life_expectancy,2018,74.301
-Mexico,MEX,life_expectancy,2017,74.261
-Mexico,MEX,life_expectancy,2016,74.376
-Mexico,MEX,life_expectancy,2015,74.431
-Nigeria,NGA,life_expectancy,2023,54.462
-Nigeria,NGA,life_expectancy,2022,54.079
-Nigeria,NGA,life_expectancy,2021,53.455
-Nigeria,NGA,life_expectancy,2020,53.072
-Nigeria,NGA,life_expectancy,2019,53.009
-Nigeria,NGA,life_expectancy,2018,52.669
-Nigeria,NGA,life_expectancy,2017,52.397
-Nigeria,NGA,life_expectancy,2016,52.189
-Nigeria,NGA,life_expectancy,2015,51.939
-United States,USA,life_expectancy,2023,78.3853658536585
-United States,USA,life_expectancy,2022,77.4341463414634
-United States,USA,life_expectancy,2021,76.3292682926829
-United States,USA,life_expectancy,2020,76.9804878048781
-United States,USA,life_expectancy,2019,78.7878048780488
-United States,USA,life_expectancy,2018,78.6390243902439
-United States,USA,life_expectancy,2017,78.5390243902439
-United States,USA,life_expectancy,2016,78.5390243902439
-United States,USA,life_expectancy,2015,78.690243902439
-Viet Nam,VNM,life_expectancy,2023,74.588
-Viet Nam,VNM,life_expectancy,2022,74.502
-Viet Nam,VNM,life_expectancy,2021,74.145
-Viet Nam,VNM,life_expectancy,2020,75.383
-Viet Nam,VNM,life_expectancy,2019,74.211
-Viet Nam,VNM,life_expectancy,2018,74.1
-Viet Nam,VNM,life_expectancy,2017,74.026
-Viet Nam,VNM,life_expectancy,2016,73.984
-Viet Nam,VNM,life_expectancy,2015,73.955
-South Africa,ZAF,life_expectancy,2023,66.139
-South Africa,ZAF,life_expectancy,2022,65.454
-South Africa,ZAF,life_expectancy,2021,62.01
-South Africa,ZAF,life_expectancy,2020,65.15
-South Africa,ZAF,life_expectancy,2019,66.071
-South Africa,ZAF,life_expectancy,2018,65.726
-South Africa,ZAF,life_expectancy,2017,65.422
-South Africa,ZAF,life_expectancy,2016,64.749
-South Africa,ZAF,life_expectancy,2015,64.053
-Bangladesh,BGD,maternal_mortality_ratio,2023,115.0
-Bangladesh,BGD,maternal_mortality_ratio,2022,131.0
-Bangladesh,BGD,maternal_mortality_ratio,2021,194.0
-Bangladesh,BGD,maternal_mortality_ratio,2020,152.0
-Bangladesh,BGD,maternal_mortality_ratio,2019,157.0
-Bangladesh,BGD,maternal_mortality_ratio,2018,168.0
-Bangladesh,BGD,maternal_mortality_ratio,2017,179.0
-Bangladesh,BGD,maternal_mortality_ratio,2016,191.0
-Bangladesh,BGD,maternal_mortality_ratio,2015,204.0
-Brazil,BRA,maternal_mortality_ratio,2023,67.0
-Brazil,BRA,maternal_mortality_ratio,2022,104.0
-Brazil,BRA,maternal_mortality_ratio,2021,128.0
-Brazil,BRA,maternal_mortality_ratio,2020,85.0
-Brazil,BRA,maternal_mortality_ratio,2019,65.0
-Brazil,BRA,maternal_mortality_ratio,2018,62.0
-Brazil,BRA,maternal_mortality_ratio,2017,61.0
-Brazil,BRA,maternal_mortality_ratio,2016,64.0
-Brazil,BRA,maternal_mortality_ratio,2015,63.0
-Canada,CAN,maternal_mortality_ratio,2023,12.0
-Canada,CAN,maternal_mortality_ratio,2022,15.0
-Canada,CAN,maternal_mortality_ratio,2021,14.0
-Canada,CAN,maternal_mortality_ratio,2020,17.0
-Canada,CAN,maternal_mortality_ratio,2019,12.0
-Canada,CAN,maternal_mortality_ratio,2018,13.0
-Canada,CAN,maternal_mortality_ratio,2017,12.0
-Canada,CAN,maternal_mortality_ratio,2016,12.0
-Canada,CAN,maternal_mortality_ratio,2015,11.0
-Germany,DEU,maternal_mortality_ratio,2023,4.0
-Germany,DEU,maternal_mortality_ratio,2022,4.0
-Germany,DEU,maternal_mortality_ratio,2021,4.0
-Germany,DEU,maternal_mortality_ratio,2020,4.0
-Germany,DEU,maternal_mortality_ratio,2019,4.0
-Germany,DEU,maternal_mortality_ratio,2018,4.0
-Germany,DEU,maternal_mortality_ratio,2017,4.0
-Germany,DEU,maternal_mortality_ratio,2016,4.0
-Germany,DEU,maternal_mortality_ratio,2015,5.0
-France,FRA,maternal_mortality_ratio,2023,7.0
-France,FRA,maternal_mortality_ratio,2022,9.0
-France,FRA,maternal_mortality_ratio,2021,9.0
-France,FRA,maternal_mortality_ratio,2020,9.0
-France,FRA,maternal_mortality_ratio,2019,8.0
-France,FRA,maternal_mortality_ratio,2018,9.0
-France,FRA,maternal_mortality_ratio,2017,8.0
-France,FRA,maternal_mortality_ratio,2016,9.0
-France,FRA,maternal_mortality_ratio,2015,9.0
-United Kingdom,GBR,maternal_mortality_ratio,2023,8.0
-United Kingdom,GBR,maternal_mortality_ratio,2022,15.0
-United Kingdom,GBR,maternal_mortality_ratio,2021,13.0
-United Kingdom,GBR,maternal_mortality_ratio,2020,14.0
-United Kingdom,GBR,maternal_mortality_ratio,2019,9.0
-United Kingdom,GBR,maternal_mortality_ratio,2018,9.0
-United Kingdom,GBR,maternal_mortality_ratio,2017,9.0
-United Kingdom,GBR,maternal_mortality_ratio,2016,9.0
-United Kingdom,GBR,maternal_mortality_ratio,2015,9.0
-Ghana,GHA,maternal_mortality_ratio,2023,234.0
-Ghana,GHA,maternal_mortality_ratio,2022,239.0
-Ghana,GHA,maternal_mortality_ratio,2021,264.0
-Ghana,GHA,maternal_mortality_ratio,2020,253.0
-Ghana,GHA,maternal_mortality_ratio,2019,260.0
-Ghana,GHA,maternal_mortality_ratio,2018,276.0
-Ghana,GHA,maternal_mortality_ratio,2017,287.0
-Ghana,GHA,maternal_mortality_ratio,2016,296.0
-Ghana,GHA,maternal_mortality_ratio,2015,310.0
-Indonesia,IDN,maternal_mortality_ratio,2023,140.0
-Indonesia,IDN,maternal_mortality_ratio,2022,148.0
-Indonesia,IDN,maternal_mortality_ratio,2021,226.0
-Indonesia,IDN,maternal_mortality_ratio,2020,184.0
-Indonesia,IDN,maternal_mortality_ratio,2019,161.0
-Indonesia,IDN,maternal_mortality_ratio,2018,168.0
-Indonesia,IDN,maternal_mortality_ratio,2017,173.0
-Indonesia,IDN,maternal_mortality_ratio,2016,182.0
-Indonesia,IDN,maternal_mortality_ratio,2015,190.0
-India,IND,maternal_mortality_ratio,2023,80.0
-India,IND,maternal_mortality_ratio,2022,90.0
-India,IND,maternal_mortality_ratio,2021,155.0
-India,IND,maternal_mortality_ratio,2020,101.0
-India,IND,maternal_mortality_ratio,2019,101.0
-India,IND,maternal_mortality_ratio,2018,107.0
-India,IND,maternal_mortality_ratio,2017,113.0
-India,IND,maternal_mortality_ratio,2016,121.0
-India,IND,maternal_mortality_ratio,2015,129.0
-Japan,JPN,maternal_mortality_ratio,2023,3.0
-Japan,JPN,maternal_mortality_ratio,2022,5.0
-Japan,JPN,maternal_mortality_ratio,2021,4.0
-Japan,JPN,maternal_mortality_ratio,2020,4.0
-Japan,JPN,maternal_mortality_ratio,2019,5.0
-Japan,JPN,maternal_mortality_ratio,2018,5.0
-Japan,JPN,maternal_mortality_ratio,2017,5.0
-Japan,JPN,maternal_mortality_ratio,2016,5.0
-Japan,JPN,maternal_mortality_ratio,2015,5.0
-Kenya,KEN,maternal_mortality_ratio,2023,149.0
-Kenya,KEN,maternal_mortality_ratio,2022,155.0
-Kenya,KEN,maternal_mortality_ratio,2021,183.0
-Kenya,KEN,maternal_mortality_ratio,2020,184.0
-Kenya,KEN,maternal_mortality_ratio,2019,176.0
-Kenya,KEN,maternal_mortality_ratio,2018,183.0
-Kenya,KEN,maternal_mortality_ratio,2017,186.0
-Kenya,KEN,maternal_mortality_ratio,2016,196.0
-Kenya,KEN,maternal_mortality_ratio,2015,203.0
-Mexico,MEX,maternal_mortality_ratio,2023,42.0
-Mexico,MEX,maternal_mortality_ratio,2022,45.0
-Mexico,MEX,maternal_mortality_ratio,2021,104.0
-Mexico,MEX,maternal_mortality_ratio,2020,61.0
-Mexico,MEX,maternal_mortality_ratio,2019,43.0
-Mexico,MEX,maternal_mortality_ratio,2018,44.0
-Mexico,MEX,maternal_mortality_ratio,2017,44.0
-Mexico,MEX,maternal_mortality_ratio,2016,43.0
-Mexico,MEX,maternal_mortality_ratio,2015,43.0
-Nigeria,NGA,maternal_mortality_ratio,2023,993.0
-Nigeria,NGA,maternal_mortality_ratio,2022,1016.0
-Nigeria,NGA,maternal_mortality_ratio,2021,1046.0
-Nigeria,NGA,maternal_mortality_ratio,2020,1065.0
-Nigeria,NGA,maternal_mortality_ratio,2019,1091.0
-Nigeria,NGA,maternal_mortality_ratio,2018,1118.0
-Nigeria,NGA,maternal_mortality_ratio,2017,1142.0
-Nigeria,NGA,maternal_mortality_ratio,2016,1155.0
-Nigeria,NGA,maternal_mortality_ratio,2015,1168.0
-United States,USA,maternal_mortality_ratio,2023,17.0
-United States,USA,maternal_mortality_ratio,2022,20.0
-United States,USA,maternal_mortality_ratio,2021,31.0
-United States,USA,maternal_mortality_ratio,2020,22.0
-United States,USA,maternal_mortality_ratio,2019,18.0
-United States,USA,maternal_mortality_ratio,2018,18.0
-United States,USA,maternal_mortality_ratio,2017,18.0
-United States,USA,maternal_mortality_ratio,2016,18.0
-United States,USA,maternal_mortality_ratio,2015,17.0
-Viet Nam,VNM,maternal_mortality_ratio,2023,48.0
-Viet Nam,VNM,maternal_mortality_ratio,2022,49.0
-Viet Nam,VNM,maternal_mortality_ratio,2021,52.0
-Viet Nam,VNM,maternal_mortality_ratio,2020,51.0
-Viet Nam,VNM,maternal_mortality_ratio,2019,52.0
-Viet Nam,VNM,maternal_mortality_ratio,2018,53.0
-Viet Nam,VNM,maternal_mortality_ratio,2017,55.0
-Viet Nam,VNM,maternal_mortality_ratio,2016,56.0
-Viet Nam,VNM,maternal_mortality_ratio,2015,58.0
-South Africa,ZAF,maternal_mortality_ratio,2023,118.0
-South Africa,ZAF,maternal_mortality_ratio,2022,129.0
-South Africa,ZAF,maternal_mortality_ratio,2021,191.0
-South Africa,ZAF,maternal_mortality_ratio,2020,118.0
-South Africa,ZAF,maternal_mortality_ratio,2019,119.0
-South Africa,ZAF,maternal_mortality_ratio,2018,128.0
-South Africa,ZAF,maternal_mortality_ratio,2017,134.0
-South Africa,ZAF,maternal_mortality_ratio,2016,141.0
-South Africa,ZAF,maternal_mortality_ratio,2015,150.0
-Bangladesh,BGD,physicians_per_1000,2023,0.722
-Bangladesh,BGD,physicians_per_1000,2022,0.717
-Bangladesh,BGD,physicians_per_1000,2021,0.677
-Bangladesh,BGD,physicians_per_1000,2020,0.661
-Bangladesh,BGD,physicians_per_1000,2019,0.63
-Bangladesh,BGD,physicians_per_1000,2018,0.573
-Bangladesh,BGD,physicians_per_1000,2017,0.535
-Bangladesh,BGD,physicians_per_1000,2016,0.489
-Bangladesh,BGD,physicians_per_1000,2015,0.476
-Brazil,BRA,physicians_per_1000,2023,2.357
-Brazil,BRA,physicians_per_1000,2022,
-Brazil,BRA,physicians_per_1000,2021,2.191
-Brazil,BRA,physicians_per_1000,2020,
-Brazil,BRA,physicians_per_1000,2019,2.351
-Brazil,BRA,physicians_per_1000,2018,
-Brazil,BRA,physicians_per_1000,2017,2.198
-Brazil,BRA,physicians_per_1000,2016,
-Brazil,BRA,physicians_per_1000,2015,
-Canada,CAN,physicians_per_1000,2023,2.819
-Canada,CAN,physicians_per_1000,2022,2.814
-Canada,CAN,physicians_per_1000,2021,2.444
-Canada,CAN,physicians_per_1000,2020,2.415
-Canada,CAN,physicians_per_1000,2019,2.418
-Canada,CAN,physicians_per_1000,2018,2.411
-Canada,CAN,physicians_per_1000,2017,2.6102
-Canada,CAN,physicians_per_1000,2016,2.3105
-Canada,CAN,physicians_per_1000,2015,2.5388
-Germany,DEU,physicians_per_1000,2023,
-Germany,DEU,physicians_per_1000,2022,4.534
-Germany,DEU,physicians_per_1000,2021,4.503
-Germany,DEU,physicians_per_1000,2020,4.443
-Germany,DEU,physicians_per_1000,2019,4.373
-Germany,DEU,physicians_per_1000,2018,4.287
-Germany,DEU,physicians_per_1000,2017,4.226
-Germany,DEU,physicians_per_1000,2016,4.166
-Germany,DEU,physicians_per_1000,2015,4.12
-France,FRA,physicians_per_1000,2023,
-France,FRA,physicians_per_1000,2022,3.281
-France,FRA,physicians_per_1000,2021,3.264
-France,FRA,physicians_per_1000,2020,3.252
-France,FRA,physicians_per_1000,2019,3.243
-France,FRA,physicians_per_1000,2018,3.214
-France,FRA,physicians_per_1000,2017,3.217
-France,FRA,physicians_per_1000,2016,3.2
-France,FRA,physicians_per_1000,2015,3.184
-United Kingdom,GBR,physicians_per_1000,2023,3.301
-United Kingdom,GBR,physicians_per_1000,2022,3.143
-United Kingdom,GBR,physicians_per_1000,2021,3.16
-United Kingdom,GBR,physicians_per_1000,2020,3.028
-United Kingdom,GBR,physicians_per_1000,2019,2.932
-United Kingdom,GBR,physicians_per_1000,2018,2.828
-United Kingdom,GBR,physicians_per_1000,2017,2.802
-United Kingdom,GBR,physicians_per_1000,2016,2.773
-United Kingdom,GBR,physicians_per_1000,2015,2.767
-Ghana,GHA,physicians_per_1000,2023,0.266
-Ghana,GHA,physicians_per_1000,2022,0.143
-Ghana,GHA,physicians_per_1000,2021,0.128
-Ghana,GHA,physicians_per_1000,2020,0.166
-Ghana,GHA,physicians_per_1000,2019,0.104
-Ghana,GHA,physicians_per_1000,2018,0.144
-Ghana,GHA,physicians_per_1000,2017,0.089
-Ghana,GHA,physicians_per_1000,2016,0.123
-Ghana,GHA,physicians_per_1000,2015,0.114
-Indonesia,IDN,physicians_per_1000,2023,0.524
-Indonesia,IDN,physicians_per_1000,2022,0.681
-Indonesia,IDN,physicians_per_1000,2021,0.688
-Indonesia,IDN,physicians_per_1000,2020,0.62
-Indonesia,IDN,physicians_per_1000,2019,0.462
-Indonesia,IDN,physicians_per_1000,2018,0.421
-Indonesia,IDN,physicians_per_1000,2017,0.373
-Indonesia,IDN,physicians_per_1000,2016,
-Indonesia,IDN,physicians_per_1000,2015,0.27
-India,IND,physicians_per_1000,2023,
-India,IND,physicians_per_1000,2022,
-India,IND,physicians_per_1000,2021,
-India,IND,physicians_per_1000,2020,0.723
-India,IND,physicians_per_1000,2019,0.889
-India,IND,physicians_per_1000,2018,0.84
-India,IND,physicians_per_1000,2017,0.766
-India,IND,physicians_per_1000,2016,0.748
-India,IND,physicians_per_1000,2015,0.723
-Japan,JPN,physicians_per_1000,2023,
-Japan,JPN,physicians_per_1000,2022,2.649
-Japan,JPN,physicians_per_1000,2021,
-Japan,JPN,physicians_per_1000,2020,2.592
-Japan,JPN,physicians_per_1000,2019,
-Japan,JPN,physicians_per_1000,2018,2.485
-Japan,JPN,physicians_per_1000,2017,
-Japan,JPN,physicians_per_1000,2016,2.423
-Japan,JPN,physicians_per_1000,2015,
-Kenya,KEN,physicians_per_1000,2023,0.289
-Kenya,KEN,physicians_per_1000,2022,0.236
-Kenya,KEN,physicians_per_1000,2021,0.098
-Kenya,KEN,physicians_per_1000,2020,0.074
-Kenya,KEN,physicians_per_1000,2019,
-Kenya,KEN,physicians_per_1000,2018,0.16
-Kenya,KEN,physicians_per_1000,2017,
-Kenya,KEN,physicians_per_1000,2016,
-Kenya,KEN,physicians_per_1000,2015,
-Mexico,MEX,physicians_per_1000,2023,
-Mexico,MEX,physicians_per_1000,2022,2.588
-Mexico,MEX,physicians_per_1000,2021,2.541
-Mexico,MEX,physicians_per_1000,2020,2.425
-Mexico,MEX,physicians_per_1000,2019,2.46
-Mexico,MEX,physicians_per_1000,2018,2.456
-Mexico,MEX,physicians_per_1000,2017,2.409
-Mexico,MEX,physicians_per_1000,2016,2.345
-Mexico,MEX,physicians_per_1000,2015,2.34
-Nigeria,NGA,physicians_per_1000,2023,0.38
-Nigeria,NGA,physicians_per_1000,2022,0.386
-Nigeria,NGA,physicians_per_1000,2021,0.386
-Nigeria,NGA,physicians_per_1000,2020,
-Nigeria,NGA,physicians_per_1000,2019,0.356
-Nigeria,NGA,physicians_per_1000,2018,0.364
-Nigeria,NGA,physicians_per_1000,2017,
-Nigeria,NGA,physicians_per_1000,2016,0.428
-Nigeria,NGA,physicians_per_1000,2015,
-United States,USA,physicians_per_1000,2023,
-United States,USA,physicians_per_1000,2022,3.681
-United States,USA,physicians_per_1000,2021,3.575
-United States,USA,physicians_per_1000,2020,3.518
-United States,USA,physicians_per_1000,2019,3.482
-United States,USA,physicians_per_1000,2018,2.548
-United States,USA,physicians_per_1000,2017,
-United States,USA,physicians_per_1000,2016,
-United States,USA,physicians_per_1000,2015,
-Viet Nam,VNM,physicians_per_1000,2023,
-Viet Nam,VNM,physicians_per_1000,2022,
-Viet Nam,VNM,physicians_per_1000,2021,1.107
-Viet Nam,VNM,physicians_per_1000,2020,0.856
-Viet Nam,VNM,physicians_per_1000,2019,0.99
-Viet Nam,VNM,physicians_per_1000,2018,0.881
-Viet Nam,VNM,physicians_per_1000,2017,
-Viet Nam,VNM,physicians_per_1000,2016,0.825
-Viet Nam,VNM,physicians_per_1000,2015,0.795
-South Africa,ZAF,physicians_per_1000,2023,
-South Africa,ZAF,physicians_per_1000,2022,0.794
-South Africa,ZAF,physicians_per_1000,2021,0.781
-South Africa,ZAF,physicians_per_1000,2020,
-South Africa,ZAF,physicians_per_1000,2019,0.779
-South Africa,ZAF,physicians_per_1000,2018,0.742
-South Africa,ZAF,physicians_per_1000,2017,0.775
-South Africa,ZAF,physicians_per_1000,2016,0.753
-South Africa,ZAF,physicians_per_1000,2015,0.763
+country,country_code,indicator,year,value,unit
+Bangladesh,BGD,health_expenditure_per_capita,2023,53.46432495,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2022,56.62142181,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2021,56.09640121,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2020,49.0274353,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2019,45.07677078,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2018,44.78892899,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2017,42.17510986,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2016,39.30647659,current US$
+Bangladesh,BGD,health_expenditure_per_capita,2015,33.20998764,current US$
+Brazil,BRA,health_expenditure_per_capita,2023,1009.83563232,current US$
+Brazil,BRA,health_expenditure_per_capita,2022,871.27526855,current US$
+Brazil,BRA,health_expenditure_per_capita,2021,768.27075195,current US$
+Brazil,BRA,health_expenditure_per_capita,2020,680.76843262,current US$
+Brazil,BRA,health_expenditure_per_capita,2019,868.17248535,current US$
+Brazil,BRA,health_expenditure_per_capita,2018,880.28430176,current US$
+Brazil,BRA,health_expenditure_per_capita,2017,954.75012207,current US$
+Brazil,BRA,health_expenditure_per_capita,2016,810.20037842,current US$
+Brazil,BRA,health_expenditure_per_capita,2015,796.15252686,current US$
+Canada,CAN,health_expenditure_per_capita,2023,6186.65234375,current US$
+Canada,CAN,health_expenditure_per_capita,2022,6252.34033203,current US$
+Canada,CAN,health_expenditure_per_capita,2021,6511.46972656,current US$
+Canada,CAN,health_expenditure_per_capita,2020,5646.19433594,current US$
+Canada,CAN,health_expenditure_per_capita,2019,5098.88720703,current US$
+Canada,CAN,health_expenditure_per_capita,2018,5052.90185547,current US$
+Canada,CAN,health_expenditure_per_capita,2017,4894.7734375,current US$
+Canada,CAN,health_expenditure_per_capita,2016,4647.14892578,current US$
+Canada,CAN,health_expenditure_per_capita,2015,4658.83789063,current US$
+Germany,DEU,health_expenditure_per_capita,2023,6394.62255859,current US$
+Germany,DEU,health_expenditure_per_capita,2022,6226.14208984,current US$
+Germany,DEU,health_expenditure_per_capita,2021,6653.58349609,current US$
+Germany,DEU,health_expenditure_per_capita,2020,5906.80615234,current US$
+Germany,DEU,health_expenditure_per_capita,2019,5447.31787109,current US$
+Germany,DEU,health_expenditure_per_capita,2018,5473.55712891,current US$
+Germany,DEU,health_expenditure_per_capita,2017,5039.35302734,current US$
+Germany,DEU,health_expenditure_per_capita,2016,4723.32421875,current US$
+Germany,DEU,health_expenditure_per_capita,2015,4605.59033203,current US$
+France,FRA,health_expenditure_per_capita,2023,5149.0546875,current US$
+France,FRA,health_expenditure_per_capita,2022,4857.73388672,current US$
+France,FRA,health_expenditure_per_capita,2021,5364.89746094,current US$
+France,FRA,health_expenditure_per_capita,2020,4760.08251953,current US$
+France,FRA,health_expenditure_per_capita,2019,4519.98583984,current US$
+France,FRA,health_expenditure_per_capita,2018,4692.99511719,current US$
+France,FRA,health_expenditure_per_capita,2017,4436.63720703,current US$
+France,FRA,health_expenditure_per_capita,2016,4289.34716797,current US$
+France,FRA,health_expenditure_per_capita,2015,4226.62646484,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2023,5407.17041016,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2022,5111.81738281,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2021,5645.40136719,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2020,4865.97802734,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2019,4260.03222656,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2018,4233.62988281,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2017,3938.65234375,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2016,4043.35253906,current US$
+United Kingdom,GBR,health_expenditure_per_capita,2015,4470.09228516,current US$
+Ghana,GHA,health_expenditure_per_capita,2023,70.25730896,current US$
+Ghana,GHA,health_expenditure_per_capita,2022,82.32108307,current US$
+Ghana,GHA,health_expenditure_per_capita,2021,94.40388489,current US$
+Ghana,GHA,health_expenditure_per_capita,2020,97.37677765,current US$
+Ghana,GHA,health_expenditure_per_capita,2019,71.14958191,current US$
+Ghana,GHA,health_expenditure_per_capita,2018,53.37788773,current US$
+Ghana,GHA,health_expenditure_per_capita,2017,54.10602188,current US$
+Ghana,GHA,health_expenditure_per_capita,2016,64.86400604,current US$
+Ghana,GHA,health_expenditure_per_capita,2015,78.21643066,current US$
+Indonesia,IDN,health_expenditure_per_capita,2023,131.77729797,current US$
+Indonesia,IDN,health_expenditure_per_capita,2022,127.44384766,current US$
+Indonesia,IDN,health_expenditure_per_capita,2021,158.89761353,current US$
+Indonesia,IDN,health_expenditure_per_capita,2020,131.8225708,current US$
+Indonesia,IDN,health_expenditure_per_capita,2019,118.22380829,current US$
+Indonesia,IDN,health_expenditure_per_capita,2018,110.71585846,current US$
+Indonesia,IDN,health_expenditure_per_capita,2017,110.32610321,current US$
+Indonesia,IDN,health_expenditure_per_capita,2016,106.40021515,current US$
+Indonesia,IDN,health_expenditure_per_capita,2015,96.15701294,current US$
+India,IND,health_expenditure_per_capita,2023,84.68669891,current US$
+India,IND,health_expenditure_per_capita,2022,81.50888824,current US$
+India,IND,health_expenditure_per_capita,2021,75.54971313,current US$
+India,IND,health_expenditure_per_capita,2020,63.83099747,current US$
+India,IND,health_expenditure_per_capita,2019,60.6913681,current US$
+India,IND,health_expenditure_per_capita,2018,57.46551132,current US$
+India,IND,health_expenditure_per_capita,2017,56.66844559,current US$
+India,IND,health_expenditure_per_capita,2016,59.72652817,current US$
+India,IND,health_expenditure_per_capita,2015,58.12401581,current US$
+Japan,JPN,health_expenditure_per_capita,2023,3638.19287109,current US$
+Japan,JPN,health_expenditure_per_capita,2022,4201.79248047,current US$
+Japan,JPN,health_expenditure_per_capita,2021,4843.94433594,current US$
+Japan,JPN,health_expenditure_per_capita,2020,4581.60986328,current US$
+Japan,JPN,health_expenditure_per_capita,2019,4431.29980469,current US$
+Japan,JPN,health_expenditure_per_capita,2018,4265.77929688,current US$
+Japan,JPN,health_expenditure_per_capita,2017,4135.24316406,current US$
+Japan,JPN,health_expenditure_per_capita,2016,4194.22802734,current US$
+Japan,JPN,health_expenditure_per_capita,2015,3754.18115234,current US$
+Kenya,KEN,health_expenditure_per_capita,2023,84.958992,current US$
+Kenya,KEN,health_expenditure_per_capita,2022,91.18416595,current US$
+Kenya,KEN,health_expenditure_per_capita,2021,94.20249176,current US$
+Kenya,KEN,health_expenditure_per_capita,2020,86.5921936,current US$
+Kenya,KEN,health_expenditure_per_capita,2019,85.64528656,current US$
+Kenya,KEN,health_expenditure_per_capita,2018,75.27681732,current US$
+Kenya,KEN,health_expenditure_per_capita,2017,66.46552277,current US$
+Kenya,KEN,health_expenditure_per_capita,2016,73.88768005,current US$
+Kenya,KEN,health_expenditure_per_capita,2015,70.94755554,current US$
+Mexico,MEX,health_expenditure_per_capita,2023,760.98840332,current US$
+Mexico,MEX,health_expenditure_per_capita,2022,650.97070313,current US$
+Mexico,MEX,health_expenditure_per_capita,2021,606.13415527,current US$
+Mexico,MEX,health_expenditure_per_capita,2020,535.11669922,current US$
+Mexico,MEX,health_expenditure_per_capita,2019,549.72601318,current US$
+Mexico,MEX,health_expenditure_per_capita,2018,528.26306152,current US$
+Mexico,MEX,health_expenditure_per_capita,2017,512.54974365,current US$
+Mexico,MEX,health_expenditure_per_capita,2016,489.92230225,current US$
+Mexico,MEX,health_expenditure_per_capita,2015,553.91259766,current US$
+Nigeria,NGA,health_expenditure_per_capita,2023,66.82009125,current US$
+Nigeria,NGA,health_expenditure_per_capita,2022,89.62958527,current US$
+Nigeria,NGA,health_expenditure_per_capita,2021,81.87322235,current US$
+Nigeria,NGA,health_expenditure_per_capita,2020,67.91384888,current US$
+Nigeria,NGA,health_expenditure_per_capita,2019,67.6254425,current US$
+Nigeria,NGA,health_expenditure_per_capita,2018,63.60244751,current US$
+Nigeria,NGA,health_expenditure_per_capita,2017,70.31814575,current US$
+Nigeria,NGA,health_expenditure_per_capita,2016,75.52328491,current US$
+Nigeria,NGA,health_expenditure_per_capita,2015,92.91207123,current US$
+United States,USA,health_expenditure_per_capita,2023,13473.19335938,current US$
+United States,USA,health_expenditure_per_capita,2022,12586.19628906,current US$
+United States,USA,health_expenditure_per_capita,2021,12080.07324219,current US$
+United States,USA,health_expenditure_per_capita,2020,11648.49511719,current US$
+United States,USA,health_expenditure_per_capita,2019,10550.22070313,current US$
+United States,USA,health_expenditure_per_capita,2018,10180.48242188,current US$
+United States,USA,health_expenditure_per_capita,2017,9822.60644531,current US$
+United States,USA,health_expenditure_per_capita,2016,9535.60058594,current US$
+United States,USA,health_expenditure_per_capita,2015,9200.93164063,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2023,197.19210815,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2022,188.22650146,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2021,168.09350586,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2020,153.10160828,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2019,171.15296936,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2018,161.97871399,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2017,147.51425171,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2016,133.1960144,current US$
+Viet Nam,VNM,health_expenditure_per_capita,2015,121.43981171,current US$
+South Africa,ZAF,health_expenditure_per_capita,2023,536.58843994,current US$
+South Africa,ZAF,health_expenditure_per_capita,2022,570.48028564,current US$
+South Africa,ZAF,health_expenditure_per_capita,2021,592.9465332,current US$
+South Africa,ZAF,health_expenditure_per_capita,2020,503.46759033,current US$
+South Africa,ZAF,health_expenditure_per_capita,2019,538.80438232,current US$
+South Africa,ZAF,health_expenditure_per_capita,2018,558.80145264,current US$
+South Africa,ZAF,health_expenditure_per_capita,2017,527.52026367,current US$
+South Africa,ZAF,health_expenditure_per_capita,2016,456.56936646,current US$
+South Africa,ZAF,health_expenditure_per_capita,2015,491.90652466,current US$
+Bangladesh,BGD,life_expectancy,2023,74.672,years
+Bangladesh,BGD,life_expectancy,2022,74.265,years
+Bangladesh,BGD,life_expectancy,2021,71.103,years
+Bangladesh,BGD,life_expectancy,2020,71.421,years
+Bangladesh,BGD,life_expectancy,2019,72.625,years
+Bangladesh,BGD,life_expectancy,2018,72.122,years
+Bangladesh,BGD,life_expectancy,2017,71.606,years
+Bangladesh,BGD,life_expectancy,2016,71.075,years
+Bangladesh,BGD,life_expectancy,2015,70.543,years
+Brazil,BRA,life_expectancy,2023,75.848,years
+Brazil,BRA,life_expectancy,2022,74.872,years
+Brazil,BRA,life_expectancy,2021,73.038,years
+Brazil,BRA,life_expectancy,2020,74.506,years
+Brazil,BRA,life_expectancy,2019,75.809,years
+Brazil,BRA,life_expectancy,2018,75.633,years
+Brazil,BRA,life_expectancy,2017,75.383,years
+Brazil,BRA,life_expectancy,2016,75.081,years
+Brazil,BRA,life_expectancy,2015,75.106,years
+Canada,CAN,life_expectancy,2023,81.6263414634146,years
+Canada,CAN,life_expectancy,2022,81.0948780487805,years
+Canada,CAN,life_expectancy,2021,81.4514634146342,years
+Canada,CAN,life_expectancy,2020,81.53,years
+Canada,CAN,life_expectancy,2019,82.1585365853659,years
+Canada,CAN,life_expectancy,2018,81.8036585365854,years
+Canada,CAN,life_expectancy,2017,81.8078048780488,years
+Canada,CAN,life_expectancy,2016,81.94,years
+Canada,CAN,life_expectancy,2015,81.8258536585366,years
+Germany,DEU,life_expectancy,2023,81.0414634146342,years
+Germany,DEU,life_expectancy,2022,80.6080487804878,years
+Germany,DEU,life_expectancy,2021,80.790243902439,years
+Germany,DEU,life_expectancy,2020,81.0414634146342,years
+Germany,DEU,life_expectancy,2019,81.2926829268293,years
+Germany,DEU,life_expectancy,2018,80.8926829268293,years
+Germany,DEU,life_expectancy,2017,80.9926829268293,years
+Germany,DEU,life_expectancy,2016,80.990243902439,years
+Germany,DEU,life_expectancy,2015,80.6414634146341,years
+France,FRA,life_expectancy,2023,82.8317073170732,years
+France,FRA,life_expectancy,2022,82.1292682926829,years
+France,FRA,life_expectancy,2021,82.3243902439024,years
+France,FRA,life_expectancy,2020,82.1756097560976,years
+France,FRA,life_expectancy,2019,82.8268292682927,years
+France,FRA,life_expectancy,2018,82.6756097560976,years
+France,FRA,life_expectancy,2017,82.5756097560976,years
+France,FRA,life_expectancy,2016,82.5731707317073,years
+France,FRA,life_expectancy,2015,82.3219512195122,years
+United Kingdom,GBR,life_expectancy,2023,81.2380975609756,years
+United Kingdom,GBR,life_expectancy,2022,81.0112195121951,years
+United Kingdom,GBR,life_expectancy,2021,80.6473170731707,years
+United Kingdom,GBR,life_expectancy,2020,80.331756097561,years
+United Kingdom,GBR,life_expectancy,2019,81.3691219512195,years
+United Kingdom,GBR,life_expectancy,2018,81.2560975609756,years
+United Kingdom,GBR,life_expectancy,2017,81.2560975609756,years
+United Kingdom,GBR,life_expectancy,2016,81.1560975609756,years
+United Kingdom,GBR,life_expectancy,2015,80.9560975609756,years
+Ghana,GHA,life_expectancy,2023,65.498,years
+Ghana,GHA,life_expectancy,2022,65.246,years
+Ghana,GHA,life_expectancy,2021,64.286,years
+Ghana,GHA,life_expectancy,2020,64.309,years
+Ghana,GHA,life_expectancy,2019,64.455,years
+Ghana,GHA,life_expectancy,2018,64.138,years
+Ghana,GHA,life_expectancy,2017,63.829,years
+Ghana,GHA,life_expectancy,2016,63.522,years
+Ghana,GHA,life_expectancy,2015,63.175,years
+Indonesia,IDN,life_expectancy,2023,71.146,years
+Indonesia,IDN,life_expectancy,2022,70.925,years
+Indonesia,IDN,life_expectancy,2021,67.452,years
+Indonesia,IDN,life_expectancy,2020,68.817,years
+Indonesia,IDN,life_expectancy,2019,70.349,years
+Indonesia,IDN,life_expectancy,2018,70.08,years
+Indonesia,IDN,life_expectancy,2017,69.953,years
+Indonesia,IDN,life_expectancy,2016,69.733,years
+Indonesia,IDN,life_expectancy,2015,69.52,years
+India,IND,life_expectancy,2023,72.003,years
+India,IND,life_expectancy,2022,71.698,years
+India,IND,life_expectancy,2021,67.282,years
+India,IND,life_expectancy,2020,70.156,years
+India,IND,life_expectancy,2019,70.746,years
+India,IND,life_expectancy,2018,70.415,years
+India,IND,life_expectancy,2017,70.068,years
+India,IND,life_expectancy,2016,69.709,years
+India,IND,life_expectancy,2015,69.326,years
+Japan,JPN,life_expectancy,2023,84.0412195121951,years
+Japan,JPN,life_expectancy,2022,83.9963414634146,years
+Japan,JPN,life_expectancy,2021,84.4456097560976,years
+Japan,JPN,life_expectancy,2020,84.56,years
+Japan,JPN,life_expectancy,2019,84.3563414634146,years
+Japan,JPN,life_expectancy,2018,84.2109756097561,years
+Japan,JPN,life_expectancy,2017,84.099756097561,years
+Japan,JPN,life_expectancy,2016,83.9848780487805,years
+Japan,JPN,life_expectancy,2015,83.7939024390244,years
+Kenya,KEN,life_expectancy,2023,63.646,years
+Kenya,KEN,life_expectancy,2022,63.549,years
+Kenya,KEN,life_expectancy,2021,61.225,years
+Kenya,KEN,life_expectancy,2020,61.596,years
+Kenya,KEN,life_expectancy,2019,62.939,years
+Kenya,KEN,life_expectancy,2018,62.825,years
+Kenya,KEN,life_expectancy,2017,62.725,years
+Kenya,KEN,life_expectancy,2016,62.526,years
+Kenya,KEN,life_expectancy,2015,62.279,years
+Mexico,MEX,life_expectancy,2023,75.069,years
+Mexico,MEX,life_expectancy,2022,73.973,years
+Mexico,MEX,life_expectancy,2021,69.75,years
+Mexico,MEX,life_expectancy,2020,70.449,years
+Mexico,MEX,life_expectancy,2019,74.53,years
+Mexico,MEX,life_expectancy,2018,74.301,years
+Mexico,MEX,life_expectancy,2017,74.261,years
+Mexico,MEX,life_expectancy,2016,74.376,years
+Mexico,MEX,life_expectancy,2015,74.431,years
+Nigeria,NGA,life_expectancy,2023,54.462,years
+Nigeria,NGA,life_expectancy,2022,54.079,years
+Nigeria,NGA,life_expectancy,2021,53.455,years
+Nigeria,NGA,life_expectancy,2020,53.072,years
+Nigeria,NGA,life_expectancy,2019,53.009,years
+Nigeria,NGA,life_expectancy,2018,52.669,years
+Nigeria,NGA,life_expectancy,2017,52.397,years
+Nigeria,NGA,life_expectancy,2016,52.189,years
+Nigeria,NGA,life_expectancy,2015,51.939,years
+United States,USA,life_expectancy,2023,78.3853658536585,years
+United States,USA,life_expectancy,2022,77.4341463414634,years
+United States,USA,life_expectancy,2021,76.3292682926829,years
+United States,USA,life_expectancy,2020,76.9804878048781,years
+United States,USA,life_expectancy,2019,78.7878048780488,years
+United States,USA,life_expectancy,2018,78.6390243902439,years
+United States,USA,life_expectancy,2017,78.5390243902439,years
+United States,USA,life_expectancy,2016,78.5390243902439,years
+United States,USA,life_expectancy,2015,78.690243902439,years
+Viet Nam,VNM,life_expectancy,2023,74.588,years
+Viet Nam,VNM,life_expectancy,2022,74.502,years
+Viet Nam,VNM,life_expectancy,2021,74.145,years
+Viet Nam,VNM,life_expectancy,2020,75.383,years
+Viet Nam,VNM,life_expectancy,2019,74.211,years
+Viet Nam,VNM,life_expectancy,2018,74.1,years
+Viet Nam,VNM,life_expectancy,2017,74.026,years
+Viet Nam,VNM,life_expectancy,2016,73.984,years
+Viet Nam,VNM,life_expectancy,2015,73.955,years
+South Africa,ZAF,life_expectancy,2023,66.139,years
+South Africa,ZAF,life_expectancy,2022,65.454,years
+South Africa,ZAF,life_expectancy,2021,62.01,years
+South Africa,ZAF,life_expectancy,2020,65.15,years
+South Africa,ZAF,life_expectancy,2019,66.071,years
+South Africa,ZAF,life_expectancy,2018,65.726,years
+South Africa,ZAF,life_expectancy,2017,65.422,years
+South Africa,ZAF,life_expectancy,2016,64.749,years
+South Africa,ZAF,life_expectancy,2015,64.053,years
+Bangladesh,BGD,maternal_mortality_ratio,2023,115.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2022,131.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2021,194.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2020,152.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2019,157.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2018,168.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2017,179.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2016,191.0,"per 100,000 live births"
+Bangladesh,BGD,maternal_mortality_ratio,2015,204.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2023,67.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2022,104.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2021,128.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2020,85.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2019,65.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2018,62.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2017,61.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2016,64.0,"per 100,000 live births"
+Brazil,BRA,maternal_mortality_ratio,2015,63.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2023,12.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2022,15.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2021,14.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2020,17.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2019,12.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2018,13.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2017,12.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2016,12.0,"per 100,000 live births"
+Canada,CAN,maternal_mortality_ratio,2015,11.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2023,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2022,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2021,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2020,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2019,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2018,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2017,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2016,4.0,"per 100,000 live births"
+Germany,DEU,maternal_mortality_ratio,2015,5.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2023,7.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2022,9.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2021,9.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2020,9.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2019,8.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2018,9.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2017,8.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2016,9.0,"per 100,000 live births"
+France,FRA,maternal_mortality_ratio,2015,9.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2023,8.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2022,15.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2021,13.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2020,14.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2019,9.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2018,9.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2017,9.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2016,9.0,"per 100,000 live births"
+United Kingdom,GBR,maternal_mortality_ratio,2015,9.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2023,234.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2022,239.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2021,264.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2020,253.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2019,260.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2018,276.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2017,287.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2016,296.0,"per 100,000 live births"
+Ghana,GHA,maternal_mortality_ratio,2015,310.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2023,140.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2022,148.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2021,226.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2020,184.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2019,161.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2018,168.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2017,173.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2016,182.0,"per 100,000 live births"
+Indonesia,IDN,maternal_mortality_ratio,2015,190.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2023,80.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2022,90.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2021,155.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2020,101.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2019,101.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2018,107.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2017,113.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2016,121.0,"per 100,000 live births"
+India,IND,maternal_mortality_ratio,2015,129.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2023,3.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2022,5.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2021,4.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2020,4.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2019,5.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2018,5.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2017,5.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2016,5.0,"per 100,000 live births"
+Japan,JPN,maternal_mortality_ratio,2015,5.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2023,149.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2022,155.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2021,183.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2020,184.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2019,176.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2018,183.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2017,186.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2016,196.0,"per 100,000 live births"
+Kenya,KEN,maternal_mortality_ratio,2015,203.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2023,42.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2022,45.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2021,104.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2020,61.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2019,43.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2018,44.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2017,44.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2016,43.0,"per 100,000 live births"
+Mexico,MEX,maternal_mortality_ratio,2015,43.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2023,993.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2022,1016.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2021,1046.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2020,1065.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2019,1091.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2018,1118.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2017,1142.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2016,1155.0,"per 100,000 live births"
+Nigeria,NGA,maternal_mortality_ratio,2015,1168.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2023,17.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2022,20.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2021,31.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2020,22.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2019,18.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2018,18.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2017,18.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2016,18.0,"per 100,000 live births"
+United States,USA,maternal_mortality_ratio,2015,17.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2023,48.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2022,49.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2021,52.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2020,51.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2019,52.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2018,53.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2017,55.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2016,56.0,"per 100,000 live births"
+Viet Nam,VNM,maternal_mortality_ratio,2015,58.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2023,118.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2022,129.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2021,191.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2020,118.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2019,119.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2018,128.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2017,134.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2016,141.0,"per 100,000 live births"
+South Africa,ZAF,maternal_mortality_ratio,2015,150.0,"per 100,000 live births"
+Bangladesh,BGD,physicians_per_1000,2023,0.722,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2022,0.717,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2021,0.677,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2020,0.661,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2019,0.63,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2018,0.573,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2017,0.535,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2016,0.489,"per 1,000 people"
+Bangladesh,BGD,physicians_per_1000,2015,0.476,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2023,2.357,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2022,,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2021,2.191,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2020,,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2019,2.351,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2018,,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2017,2.198,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2016,,"per 1,000 people"
+Brazil,BRA,physicians_per_1000,2015,,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2023,2.819,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2022,2.814,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2021,2.444,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2020,2.415,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2019,2.418,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2018,2.411,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2017,2.6102,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2016,2.3105,"per 1,000 people"
+Canada,CAN,physicians_per_1000,2015,2.5388,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2023,,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2022,4.534,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2021,4.503,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2020,4.443,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2019,4.373,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2018,4.287,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2017,4.226,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2016,4.166,"per 1,000 people"
+Germany,DEU,physicians_per_1000,2015,4.12,"per 1,000 people"
+France,FRA,physicians_per_1000,2023,,"per 1,000 people"
+France,FRA,physicians_per_1000,2022,3.281,"per 1,000 people"
+France,FRA,physicians_per_1000,2021,3.264,"per 1,000 people"
+France,FRA,physicians_per_1000,2020,3.252,"per 1,000 people"
+France,FRA,physicians_per_1000,2019,3.243,"per 1,000 people"
+France,FRA,physicians_per_1000,2018,3.214,"per 1,000 people"
+France,FRA,physicians_per_1000,2017,3.217,"per 1,000 people"
+France,FRA,physicians_per_1000,2016,3.2,"per 1,000 people"
+France,FRA,physicians_per_1000,2015,3.184,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2023,3.301,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2022,3.143,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2021,3.16,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2020,3.028,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2019,2.932,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2018,2.828,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2017,2.802,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2016,2.773,"per 1,000 people"
+United Kingdom,GBR,physicians_per_1000,2015,2.767,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2023,0.266,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2022,0.143,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2021,0.128,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2020,0.166,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2019,0.104,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2018,0.144,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2017,0.089,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2016,0.123,"per 1,000 people"
+Ghana,GHA,physicians_per_1000,2015,0.114,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2023,0.524,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2022,0.681,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2021,0.688,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2020,0.62,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2019,0.462,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2018,0.421,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2017,0.373,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2016,,"per 1,000 people"
+Indonesia,IDN,physicians_per_1000,2015,0.27,"per 1,000 people"
+India,IND,physicians_per_1000,2023,,"per 1,000 people"
+India,IND,physicians_per_1000,2022,,"per 1,000 people"
+India,IND,physicians_per_1000,2021,,"per 1,000 people"
+India,IND,physicians_per_1000,2020,0.723,"per 1,000 people"
+India,IND,physicians_per_1000,2019,0.889,"per 1,000 people"
+India,IND,physicians_per_1000,2018,0.84,"per 1,000 people"
+India,IND,physicians_per_1000,2017,0.766,"per 1,000 people"
+India,IND,physicians_per_1000,2016,0.748,"per 1,000 people"
+India,IND,physicians_per_1000,2015,0.723,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2023,,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2022,2.649,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2021,,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2020,2.592,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2019,,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2018,2.485,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2017,,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2016,2.423,"per 1,000 people"
+Japan,JPN,physicians_per_1000,2015,,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2023,0.289,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2022,0.236,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2021,0.098,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2020,0.074,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2019,,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2018,0.16,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2017,,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2016,,"per 1,000 people"
+Kenya,KEN,physicians_per_1000,2015,,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2023,,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2022,2.588,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2021,2.541,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2020,2.425,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2019,2.46,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2018,2.456,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2017,2.409,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2016,2.345,"per 1,000 people"
+Mexico,MEX,physicians_per_1000,2015,2.34,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2023,0.38,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2022,0.386,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2021,0.386,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2020,,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2019,0.356,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2018,0.364,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2017,,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2016,0.428,"per 1,000 people"
+Nigeria,NGA,physicians_per_1000,2015,,"per 1,000 people"
+United States,USA,physicians_per_1000,2023,,"per 1,000 people"
+United States,USA,physicians_per_1000,2022,3.681,"per 1,000 people"
+United States,USA,physicians_per_1000,2021,3.575,"per 1,000 people"
+United States,USA,physicians_per_1000,2020,3.518,"per 1,000 people"
+United States,USA,physicians_per_1000,2019,3.482,"per 1,000 people"
+United States,USA,physicians_per_1000,2018,2.548,"per 1,000 people"
+United States,USA,physicians_per_1000,2017,,"per 1,000 people"
+United States,USA,physicians_per_1000,2016,,"per 1,000 people"
+United States,USA,physicians_per_1000,2015,,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2023,,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2022,,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2021,1.107,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2020,0.856,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2019,0.99,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2018,0.881,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2017,,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2016,0.825,"per 1,000 people"
+Viet Nam,VNM,physicians_per_1000,2015,0.795,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2023,,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2022,0.794,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2021,0.781,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2020,,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2019,0.779,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2018,0.742,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2017,0.775,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2016,0.753,"per 1,000 people"
+South Africa,ZAF,physicians_per_1000,2015,0.763,"per 1,000 people"

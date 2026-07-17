@@ -17,6 +17,13 @@ indicators = {
     "SH.MED.PHYS.ZS": "physicians_per_1000",
 }
 
+units = {
+    "health_expenditure_per_capita": "current US$",
+    "life_expectancy": "years",
+    "maternal_mortality_ratio": "per 100,000 live births",
+    "physicians_per_1000": "per 1,000 people",
+}
+
 all_rows = []  # we'll collect every data point here before saving
 
 # Loop through each indicator one at a time
@@ -43,6 +50,7 @@ for code, name in indicators.items():
             "indicator": name,
             "year": record["date"],
             "value": record["value"],
+            "unit": units[name],
         })
 
     print(f"Fetched {name}: {len(records)} records")
