@@ -15,3 +15,20 @@ df.to_sql("indicators", conn, if_exists="replace", index=False)
 print("\nData successfully loaded into SQLite database: data/processed/health_data.db")
 
 conn.close()
+
+# Reconnect to run a query (we closed the connection earlier)
+conn = sqlite3.connect("data/processed/health_data.db")
+
+query = """
+SELECT country, value
+FROM indicators
+WHERE indicator = 'health_expenditure_per_capita' AND year = 2023
+ORDER BY value DESC
+LIMIT 5
+"""
+
+result = pd.read_sql(query, conn)
+print("\nTop 5 highest health expenditure per capita:")
+print(result)
+
+conn.close()

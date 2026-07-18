@@ -29,3 +29,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 6 - SQL setup and data quality fix
 - Added a unit column to indicator data for clarity (currency, years, per-1000, etc.)
 - Started building a script to load data into a SQLite database
+
+## Day 7 - First SQL queries
+- Finished loading data into a SQLite database
+- Wrote and debugged first real SQL query (top health spenders by country)
+- Learned to sanity-check query logic, not just check for errors

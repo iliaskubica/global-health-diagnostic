@@ -119,7 +119,27 @@ Day 7 - finish load_to_sql.py, write first real SQL queries.
 
 ---
 
-## Day 7 - [Title]
+## Day 7 - First Real SQL Queries
+**Date:** 18 July 2026
+
+**What I did:**
+Finished load_to_sql.py - it now loads the CSV data into a real SQLite database (data/processed/health_data.db). Wrote my first SQL query to find the countries with the highest health expenditure per capita.
+
+**Why I made that choice:**
+My first version of the query technically ran without errors but wasn't actually useful - it returned the same country five times (different years) instead of comparing different countries. Fixed it by filtering to a single year, since "top 5 countries" only makes sense when comparing the same point in time.
+
+**What I learned:**
+The basic shape of a SQL query - SELECT (which columns), FROM (which table), WHERE (filter conditions), ORDER BY (sort), LIMIT (how many results). Also learned that a query running successfully doesn't mean it's answering the right question - the logic has to match what you're actually trying to find out, not just execute without errors.
+
+**What confused me / what I'd do differently:**
+Didn't immediately notice my first query's flaw until I looked closely at the actual output - a reminder to always sanity-check results, not just check that code ran.
+
+**Next up:**
+Day 8 - write a few more SQL queries covering the other indicators, then start comparing indicators against each other (e.g. spend vs life expectancy).
+
+---
+
+## Day 8 - [Title]
 **Date:**
 
 **What I did:**
