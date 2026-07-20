@@ -155,3 +155,40 @@ Day 8 - write a few more SQL queries covering the other indicators, then start c
 
 
 **Next up:**
+
+## Day 9 - Python Analysis and First Chart
+**Date:** 20 July 2026
+
+**What I did:**
+Wrote a second SQL query (lowest life expectancy countries), then moved into real Python analysis - merged two query results together using pandas, calculated the correlation between health spend and life expectancy (0.59, a moderate positive relationship), and built a scatter chart with a trend line and log scale to visualise it. Embedded the chart directly in the README so it's visible on the repo homepage.
+
+**Why I made that choice:**
+A raw correlation number is hard to feel intuitively - visualising it makes the finding much clearer, and having it live in the README means anyone visiting the repo sees a real result immediately, not just code.
+
+**What I learned:**
+How pandas .merge() joins two tables together on a shared column (similar idea to a SQL JOIN, just done in Python). How .corr() calculates a correlation coefficient in one line. That a scatter plot's shape can be misleading if one outlier dominates the scale - fixed by using a log scale and adding a trend line, rather than trusting the first plain version.
+
+**What confused me / what I'd do differently:**
+Ran the script once before actually saving my code changes, which meant an early commit had zero real changes in it - a reminder to always double check the file is saved (no dot on the VS Code tab) before running or committing.
+
+**Next up:**
+Day 10 - identify specific countries that deviate from the spend/life-expectancy trend (over- and under-performers), and keep building out the SQL query set.
+
+---
+
+## Day 10 - [Title]
+**Date:**
+
+**What I did:**
+
+
+**Why I made that choice:**
+
+
+**What I learned:**
+
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
