@@ -34,3 +34,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Finished loading data into a SQLite database
 - Wrote and debugged first real SQL query (top health spenders by country)
 - Learned to sanity-check query logic, not just check for errors
+
+## Day 9 - Python analysis and visualization
+- Added a second SQL query (lowest life expectancy countries)
+- Calculated correlation between health spend and life expectancy (0.59)
+- Built and refined a scatter chart (log scale, trend line), embedded in README
