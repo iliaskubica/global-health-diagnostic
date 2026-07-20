@@ -1,5 +1,7 @@
 import sqlite3   # Python's built-in tool for creating/using SQLite databases
 import pandas as pd  # already familiar - handles our table data
+import matplotlib.pyplot as plt  # for creating visualizations
+import numpy as np  # for numerical operations, if needed
 
 # Read the CSV we created on Day 3
 df = pd.read_csv("data/raw/worldbank_health_indicators.csv")
@@ -40,5 +42,23 @@ combined = spend.merge(life, on="country")
 # .corr() calculates how strongly two columns move together (-1 to 1; closer to 1 = strong positive relationship)
 correlation = combined["spend"].corr(combined["life_exp"])
 print(f"\nCorrelation between health spend and life expectancy: {correlation:.2f}")
+
+plt.figure(figsize=(8, 6))
+plt.scatter(combined["spend"], combined["life_exp"], color="steelblue")
+
+# Add a trend line: numpy calculates the best-fit line through the points
+z = np.polyfit(combined["spend"], combined["life_exp"], 1)
+trend = np.poly1d(z)
+x_range = np.linspace(combined["spend"].min(), combined["spend"].max(), 100)
+plt.plot(x_range, trend(x_range), color="red", linestyle="--", label="Trend line")
+
+plt.xscale("log")  # log scale spreads out the clustered lower-spend countries
+plt.xlabel("Health Expenditure per Capita, log scale (current US$)")
+plt.ylabel("Life Expectancy (years)")
+plt.title("Health Spend vs Life Expectancy (2023)")
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.savefig("data/processed/spend_vs_life_expectancy.png", dpi=150, bbox_inches="tight")
+print("\nChart saved to data/processed/spend_vs_life_expectancy.png")
 
 conn.close()
