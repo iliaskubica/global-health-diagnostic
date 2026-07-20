@@ -38,6 +38,12 @@ See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan: objective, rationale, 
 
 To be added once SQL and Python analysis are complete - a one-page consultancy-style briefing.
 
+## Sample Finding
+
+![Health spend vs life expectancy](data/processed/spend_vs_life_expectancy.png)
+
+Health expenditure per capita and life expectancy show a moderate positive correlation (0.59) across the 16 countries in this dataset — but with significant variation, suggesting spend alone doesn't determine outcomes.
+
 ## Author
 
 Ilias Kubica - [LinkedIn](https://linkedin.com/in/iliaskubica)
