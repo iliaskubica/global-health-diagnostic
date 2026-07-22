@@ -35,7 +35,13 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Wrote and debugged first real SQL query (top health spenders by country)
 - Learned to sanity-check query logic, not just check for errors
 
-## Day 9 - Python analysis and visualization
+## Day 8 - Python analysis and visualization
 - Added a second SQL query (lowest life expectancy countries)
 - Calculated correlation between health spend and life expectancy (0.59)
 - Built and refined a scatter chart (log scale, trend line), embedded in README
+
+## Day 9 - Regression and outlier analysis
+- Extended the analysis by fitting a linear regression model
+- Calculated predicted life expectancy and residuals for each country
+- Identified the top overperforming and underperforming countries relative to health spending
+- Learned how residuals can be used to identify meaningful outliers

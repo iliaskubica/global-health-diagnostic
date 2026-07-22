@@ -139,24 +139,7 @@ Day 8 - write a few more SQL queries covering the other indicators, then start c
 
 ---
 
-## Day 8 - [Title]
-**Date:**
-
-**What I did:**
-
-
-**Why I made that choice:**
-
-
-**What I learned:**
-
-
-**What confused me / what I'd do differently:**
-
-
-**Next up:**
-
-## Day 9 - Python Analysis and First Chart
+## Day 8 - Python Analysis and First Chart
 **Date:** 20 July 2026
 
 **What I did:**
@@ -172,7 +155,27 @@ How pandas .merge() joins two tables together on a shared column (similar idea t
 Ran the script once before actually saving my code changes, which meant an early commit had zero real changes in it - a reminder to always double check the file is saved (no dot on the VS Code tab) before running or committing.
 
 **Next up:**
-Day 10 - identify specific countries that deviate from the spend/life-expectancy trend (over- and under-performers), and keep building out the SQL query set.
+Day 9 - identify specific countries that deviate from the spend/life-expectancy trend (over- and under-performers), and keep building out the SQL query set.
+
+---
+
+## Day 9 - Regression and Outlier Analysis
+**Date:** 23 July 2026
+
+**What I did:**
+Extended the spend vs life expectancy analysis by using the regression line to calculate a predicted life expectancy for every country. Compared the predicted values with the actual values by calculating residuals, then ranked countries to identify the biggest overperformers and underperformers relative to their healthcare spending. The analysis highlighted countries such as Japan and Bangladesh as outperforming expectations, while the United States and Nigeria underperformed.
+
+**Why I made that choice:**
+The chart and correlation showed the overall relationship between spending and life expectancy, but they didn't explain which countries stood out from that trend. Calculating residuals turned the visual pattern into something measurable, making it possible to identify countries that may warrant further investigation.
+
+**What I learned:**
+What a linear regression actually represents - a line of best fit that predicts one variable from another. Also learned that a residual is simply the difference between the predicted value and the actual value, and that large positive or negative residuals are useful for identifying outliers. Began thinking more about interpreting results than simply producing charts.
+
+**What confused me / what I'd do differently:**
+Initially wasn't sure where to add the new code because the regression model had to exist before predictions and residuals could be calculated. Once I understood the order of the script, the logic became much clearer.
+
+**Next up:**
+Day 10 - expand the analysis using additional health indicators (such as maternal mortality and physician density), explore stronger visualisations, and begin developing evidence-based recommendations from the findings.
 
 ---
 
