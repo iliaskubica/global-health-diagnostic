@@ -43,12 +43,30 @@ combined = spend.merge(life, on="country")
 correlation = combined["spend"].corr(combined["life_exp"])
 print(f"\nCorrelation between health spend and life expectancy: {correlation:.2f}")
 
+
+
 plt.figure(figsize=(8, 6))
 plt.scatter(combined["spend"], combined["life_exp"], color="steelblue")
 
 # Add a trend line: numpy calculates the best-fit line through the points
 z = np.polyfit(combined["spend"], combined["life_exp"], 1)
 trend = np.poly1d(z)
+
+# Calculate what the trend line predicts for each country, then find the gap (residual)
+combined["predicted_life_exp"] = trend(combined["spend"])
+combined["residual"] = combined["life_exp"] - combined["predicted_life_exp"]
+
+# Positive residual = doing better than spend would predict (efficient)
+# Negative residual = doing worse than spend would predict (underperforming)
+overperformers = combined.sort_values("residual", ascending=False).head(3)
+underperformers = combined.sort_values("residual", ascending=True).head(3)
+
+print("\nTop 3 overperformers (better life expectancy than spend predicts):")
+print(overperformers[["country", "spend", "life_exp", "residual"]])
+
+print("\nTop 3 underperformers (worse life expectancy than spend predicts):")
+print(underperformers[["country", "spend", "life_exp", "residual"]])
+
 x_range = np.linspace(combined["spend"].min(), combined["spend"].max(), 100)
 plt.plot(x_range, trend(x_range), color="red", linestyle="--", label="Trend line")
 
