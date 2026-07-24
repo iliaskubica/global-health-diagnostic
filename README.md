@@ -31,6 +31,8 @@ In progress - built iteratively, day by day. Days 1-2: repo and profile setup. D
 
 Beyond the tools listed above, this project has been a hands-on way to build real fluency in Python fundamentals (loops, dictionaries, f-strings), Git version control, and debugging - not just running pre-written code, but understanding and fixing it.
 
+Next step: identifying which countries over- or under-perform on health outcomes relative to their spending (residual analysis).
+
 ## Roadmap
 
 See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan: objective, rationale, methodology, real-world applicability, and anticipated challenges.
