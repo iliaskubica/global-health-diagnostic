@@ -45,3 +45,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Calculated predicted life expectancy and residuals for each country
 - Identified the top overperforming and underperforming countries relative to health spending
 - Learned how residuals can be used to identify meaningful outliers
+
+## Day 10 - Physicians query and a good catch
+- Wrote a third SQL query independently (physicians per 1,000 people)
+- Caught an incorrect assumption in an explanation and verified it - reinforced good analytical habits

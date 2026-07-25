@@ -179,7 +179,27 @@ Day 10 - expand the analysis using additional health indicators (such as materna
 
 ---
 
-## Day 10 - [Title]
+## Day 10 - Third Query and a Good Catch
+**Date:** 22 July 2026
+
+**What I did:**
+Wrote a third SQL query solo (with light support) - top 5 countries by physicians per 1,000 people in 2023. UK led, followed by Canada and Brazil.
+
+**Why I made that choice:**
+Wanted practice writing a query from scratch rather than just reading one, using the same pattern as earlier queries but a new indicator.
+
+**What I learned:**
+Caught an incorrect assumption Claude made - that only 5 countries appearing in the result meant missing data, when it was actually just the LIMIT 5 in the query doing exactly what it's supposed to do. Good reminder that any explanation, not just my own code, is worth checking rather than accepting at face value.
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Day 11 - more queries or start moving toward the dashboard stage.
+
+---
+
+## Day 11 - [Title]
 **Date:**
 
 **What I did:**
