@@ -49,3 +49,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 10 - Physicians query and a good catch
 - Wrote a third SQL query independently (physicians per 1,000 people)
 - Caught an incorrect assumption in an explanation and verified it - reinforced good analytical habits
+
+## Day 11 - First independent query
+- Wrote a SQL query and Python wrapper largely independently
+- Confirmed real data gaps in the physicians indicator (9 of 16 countries missing 2023 data)

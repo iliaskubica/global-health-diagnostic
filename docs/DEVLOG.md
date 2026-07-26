@@ -199,7 +199,27 @@ Day 11 - more queries or start moving toward the dashboard stage.
 
 ---
 
-## Day 11 - [Title]
+## Day 11 - First Independent Query
+**Date:** 23 July 2026
+
+**What I did:**
+Wrote a SQL query and its Python wrapper mostly independently, with light guidance - checking whether the physicians per 1,000 indicator genuinely had missing data for some countries in 2023, or whether an earlier LIMIT was just cutting results short. Confirmed all 16 countries are present in the table, but 9 have missing (NaN) values for that specific indicator/year - including major countries like the US, Japan, France, and Germany.
+
+**Why I made that choice:**
+This settled an open question from a few days ago where I'd correctly caught an incorrect assumption in an explanation, but hadn't actually verified the real answer yet - wanted to close that loop properly rather than leave it unresolved.
+
+**What I learned:**
+Real syntax practice - remembering that SQL text needs to be wrapped in quotes to be valid Python, using different quote styles (double outside, single inside) to nest one string inside another without confusing Python about where each one starts and ends. Also that NaN means a missing value, not zero or an error.
+
+**What confused me / what I'd do differently:**
+Still getting used to nested function calls, like print(pd.read_sql(...)) - the idea that the inner function runs first and hands its result to the outer one. Want to revisit this with more examples.
+
+**Next up:**
+Day 12 - more Python practice on nested functions, then continue toward the dashboard stage.
+
+---
+
+## Day 12 - [Title]
 **Date:**
 
 **What I did:**
