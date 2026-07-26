@@ -36,6 +36,11 @@ q3 = "SELECT country, value FROM indicators WHERE indicator = 'physicians_per_10
 print("\nTop 5 physicians per 1,000 people (2023):")
 print(pd.read_sql(q3, conn))
 
+# Query 4: all countries' physicians per 1,000 people (2023)
+q4 = "SELECT country, value FROM indicators WHERE indicator = 'physicians_per_1000' AND year = 2023"
+print("\nPhysicians per 1,000 people (2023):")
+print(pd.read_sql(q4, conn))
+
 # --- Pure Python/pandas analysis below (no SQL) ---
 # Pull full 2023 data for two indicators, then compare them side by side
 spend = pd.read_sql("SELECT country, value AS spend FROM indicators WHERE indicator = 'health_expenditure_per_capita' AND year = 2023", conn)
