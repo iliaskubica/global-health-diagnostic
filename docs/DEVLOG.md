@@ -219,7 +219,27 @@ Day 12 - more Python practice on nested functions, then continue toward the dash
 
 ---
 
-## Day 12 - [Title]
+## Day 12 - Functions, Local vs Global
+**Date:** 24 July 2026
+
+**What I did:**
+Learned what functions actually are, the difference between parameters and arguments, and the difference between local and global variables - starting from a toy example (a greet() function) before applying it to the real project. Refactored the four SQL queries into a single reusable run_query() function instead of repeated print blocks.
+
+**Why I made that choice:**
+Realised I'd been using functions and global variables the whole project without understanding the underlying concepts - wanted to properly understand the theory, then immediately apply it to real code rather than leaving it abstract.
+
+**What I learned:**
+A parameter is the placeholder a function expects; an argument is the real value you give it when calling the function. A local variable only exists while its function is running and is invisible outside it; a global variable, defined outside any function, is visible everywhere in the script. My existing project variables (df, conn, combined) have been global the whole time, which is why they could be reused across different parts of the script.
+
+**What confused me / what I'd do differently:**
+Initially thought variables needed their own def, like functions do - cleared up that def is only ever for functions; variables are just created with a normal = assignment, and whether they're local or global depends purely on where that line sits in the code.
+
+**Next up:**
+Day 13 - continue building Python fundamentals, then move toward the dashboard stage.
+
+---
+
+## Day 13 - [Title]
 **Date:**
 
 **What I did:**
