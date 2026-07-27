@@ -21,25 +21,25 @@ conn.close()
 # Reconnect to run a query (we closed the connection earlier)
 conn = sqlite3.connect("data/processed/health_data.db")
 
+def run_query(label, query, conn):
+    print(f"\n{label}:")
+    print(pd.read_sql(query, conn))
+
 # Query 1: highest health spenders (2023)
 q1 = "SELECT country, value FROM indicators WHERE indicator = 'health_expenditure_per_capita' AND year = 2023 ORDER BY value DESC LIMIT 5"
-print("\nTop 5 health expenditure (2023):")
-print(pd.read_sql(q1, conn))
+run_query("Top 5 health expenditure (2023)", q1, conn)
 
 # Query 2: lowest life expectancy (2023)
 q2 = "SELECT country, value FROM indicators WHERE indicator = 'life_expectancy' AND year = 2023 ORDER BY value ASC LIMIT 5"
-print("\nLowest 5 life expectancy (2023):")
-print(pd.read_sql(q2, conn))
+run_query("Lowest 5 life expectancy (2023)", q2, conn)
 
 # Query 3: highest physicians per 1,000 people (2023)
 q3 = "SELECT country, value FROM indicators WHERE indicator = 'physicians_per_1000' AND year = 2023 ORDER BY value DESC LIMIT 5"
-print("\nTop 5 physicians per 1,000 people (2023):")
-print(pd.read_sql(q3, conn))
+run_query("Top 5 physicians per 1,000 people (2023)", q3, conn)
 
 # Query 4: all countries' physicians per 1,000 people (2023)
 q4 = "SELECT country, value FROM indicators WHERE indicator = 'physicians_per_1000' AND year = 2023"
-print("\nPhysicians per 1,000 people (2023):")
-print(pd.read_sql(q4, conn))
+run_query("Physicians per 1,000 people (2023)", q4, conn)
 
 # --- Pure Python/pandas analysis below (no SQL) ---
 # Pull full 2023 data for two indicators, then compare them side by side
