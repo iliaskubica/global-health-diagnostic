@@ -239,7 +239,27 @@ Day 13 - continue building Python fundamentals, then move toward the dashboard s
 
 ---
 
-## Day 13 - [Title]
+## Day 13 - If Statements and Full Labeling
+**Date:** 25 July 2026
+
+**What I did:**
+Learned if/else statements, then wrote a function (label_performance) that automatically labels every country as "Overperforming" or "Underperforming" based on its residual, instead of manually eyeballing just the top/bottom 3. Applied it across all 16 countries using .apply().
+
+**Why I made that choice:**
+The top-3/bottom-3 view only showed the extremes - labeling every country gives a fuller picture (turned out to be 11 overperformers vs 5 underperformers), which is a more complete finding for the eventual briefing.
+
+**What I learned:**
+How if/else works - checking a condition, running one block if true, the other if false. What return does inside a function (hands a value back to be used, unlike print which just displays it). How .apply() runs a function across every row of a column automatically, without writing a manual loop.
+
+**What confused me / what I'd do differently:**
+Wasn't sure exactly where in the script the new code needed to go - learned to look for the specific variable it depends on (residual) and place new code after that variable is created, regardless of what comes after it.
+
+**Next up:**
+Day 14 - continue Python fundamentals or start moving toward the dashboard stage.
+
+---
+
+## Day 14 - [Title]
 **Date:**
 
 **What I did:**

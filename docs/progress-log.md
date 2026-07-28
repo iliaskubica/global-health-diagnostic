@@ -57,3 +57,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 12 - Functions and refactoring
 - Learned functions, parameters/arguments, local vs global variables
 - Refactored repeated query code into a single reusable function
+
+## Day 13 - If statements and full labeling
+- Learned if/else statements and applied them via a new function
+- Labeled all 16 countries as over/underperforming, not just the top 3
