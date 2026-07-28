@@ -66,6 +66,16 @@ trend = np.poly1d(z)
 combined["predicted_life_exp"] = trend(combined["spend"])
 combined["residual"] = combined["life_exp"] - combined["predicted_life_exp"]
 
+def label_performance(residual):
+    if residual > 0:
+        return "Overperforming"
+    else:
+        return "Underperforming"
+
+combined["performance"] = combined["residual"].apply(label_performance)
+print("\nAll countries labeled by performance:")
+print(combined[["country", "residual", "performance"]])
+
 # Positive residual = doing better than spend would predict (efficient)
 # Negative residual = doing worse than spend would predict (underperforming)
 overperformers = combined.sort_values("residual", ascending=False).head(3)
