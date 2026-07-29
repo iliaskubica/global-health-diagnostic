@@ -259,7 +259,27 @@ Day 14 - continue Python fundamentals or start moving toward the dashboard stage
 
 ---
 
-## Day 14 - [Title]
+## Day 14 - Power BI Dashboard Started
+**Date:** 26 July 2026
+
+**What I did:**
+Exported analysis-ready data to CSV and imported it into Power BI. Built a first chart (residuals by country) and spent time iterating on color formatting - tried gradient, then rules-based bands, settled back on a tuned gradient (symmetric range around 0). Cleaned up titles and axis labels.
+
+**Why I made that choice:**
+Power BI doesn't easily connect to SQLite, so exporting a clean CSV was the practical path - matches how real analysts typically hand off data to BI tools.
+
+**What I learned:**
+How to set a gradient's min/max manually rather than relying on auto-scaling, and why an uneven data range (skewed away from 0) makes a gradient look misleading - fixed by forcing a symmetric range around the true midpoint.
+
+**What confused me / what I'd do differently:**
+Still deciding on the best way to show the legend/scale clearly without it looking cluttered or unexplained - left as an open question to revisit next session.
+
+**Next up:**
+Day 15 - finish dashboard formatting (legend/explanation), add more charts.
+
+---
+
+## Day 15 - [Title]
 **Date:**
 
 **What I did:**

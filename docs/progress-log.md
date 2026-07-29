@@ -61,3 +61,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 13 - If statements and full labeling
 - Learned if/else statements and applied them via a new function
 - Labeled all 16 countries as over/underperforming, not just the top 3
+
+## Day 14 - Power BI dashboard started
+- Exported analysis data to CSV, imported into Power BI
+- Built first chart (residuals by country) with color formatting
