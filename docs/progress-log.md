@@ -65,3 +65,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 14 - Power BI dashboard started
 - Exported analysis data to CSV, imported into Power BI
 - Built first chart (residuals by country) with color formatting
+
+## Day 15 - Power BI dashboard development
+- Started building an interactive Power BI dashboard
+- Imported analysed dataset and created first spend vs life expectancy scatter plot
+- Began transitioning the project from code-based analysis into a stakeholder-facing diagnostic tool

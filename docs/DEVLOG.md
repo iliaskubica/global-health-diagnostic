@@ -279,19 +279,20 @@ Day 15 - finish dashboard formatting (legend/explanation), add more charts.
 
 ---
 
-## Day 15 - [Title]
-**Date:**
+## Day 15 - Power BI Dashboard Development
+**Date:** 29 July 2026
 
 **What I did:**
-
+Started building the Power BI dashboard for the project by importing the analysed dataset and creating the first interactive scatter plot. Recreated the spend vs life expectancy relationship from the Python analysis, allowing the relationship between healthcare expenditure and outcomes to be explored visually in a dashboard format.
 
 **Why I made that choice:**
-
+The Python analysis showed the relationship clearly, but a dashboard makes the findings easier to explore and communicate. Moving into Power BI shifts the project from a technical analysis exercise towards something closer to a real-world analytical deliverable that a stakeholder could interact with.
 
 **What I learned:**
-
+How Power BI can be used to turn analysed data into interactive visuals rather than just static charts. Also reinforced the difference between producing an analysis and presenting an insight - the goal is not only to calculate relationships, but to make the findings understandable for someone who may not have written the code.
 
 **What confused me / what I'd do differently:**
-
+Still getting used to the Power BI interface and how different fields need to be assigned to create meaningful visuals. The scatter plot was straightforward once the data structure was understood, but there is still more to learn about designing dashboards that communicate findings clearly rather than just displaying charts.
 
 **Next up:**
+Continue developing the Power BI dashboard by adding additional visuals, improving layout and formatting, and incorporating the residual/outlier analysis to highlight countries that outperform or underperform expectations.
