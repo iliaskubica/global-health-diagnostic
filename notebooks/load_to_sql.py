@@ -77,7 +77,7 @@ combined["performance"] = combined["residual"].apply(label_performance)
 print("\nAll countries labeled by performance:")
 print(combined[["country", "residual", "performance"]])
 
-combined.to_csv("data/processed/spend_life_expectancy_analysis.csv", index=False)
+combined.to_csv("data/processed/spend_life_expectancy_v2.csv", index=False)
 print("\nSaved analysis-ready data for Power BI: data/processed/spend_life_expectancy_analysis.csv")
 
 # Positive residual = doing better than spend would predict (efficient)

@@ -296,3 +296,40 @@ Still getting used to the Power BI interface and how different fields need to be
 
 **Next up:**
 Continue developing the Power BI dashboard by adding additional visuals, improving layout and formatting, and incorporating the residual/outlier analysis to highlight countries that outperform or underperform expectations.
+
+## Day 16 - Scatter Plot Sizing, a Real Power BI Bug, and Dashboard Review
+**Date:** 31 July 2026
+
+**What I did:**
+Added a residual_magnitude column (absolute value of residual) to size scatter plot circles by how far a country deviates from the trend line - bigger circle, bigger deviation. Colored the scatter plot by performance (Overperforming/Underperforming) with custom blue/red colors, separate from the gradient used on the bar chart. Hit a genuine Power BI bug along the way - the performance and residual_magnitude columns stopped being recognised after refreshing, even though the underlying CSV was confirmed correct. Fixed it by renaming the CSV and re-importing fresh, which forced Power BI to drop its stale cached structure. Rebuilt both charts afterward and reviewed the finished dashboard - two working charts (bar chart and scatter plot) that together tell a clear diagnostic story.
+
+**Why I made that choice:**
+Size can't be negative, so needed the absolute value of residual just for sizing, while keeping the real signed residual for color/direction elsewhere - lets the chart show both magnitude and direction at once. When troubleshooting the Power BI error, chose to eventually stop patching individual broken steps and instead do a clean re-import, since the cache issue kept resurfacing no matter what was fixed.
+
+**What I learned:**
+.abs() strips the sign off a number, useful when a value's magnitude matters but its direction would break something (like chart sizing). Power BI can get stuck with a stale cached version of a file's columns, even after refreshing multiple times and fixing individual query steps - the real fix was renaming the CSV entirely, forcing Power BI to treat it as a brand new file instead of trying to reconcile an old cached structure.
+
+**What confused me / what I'd do differently:**
+Spent a long time trying to patch the broken Power BI connection (deleting steps, fixing column types, using the built-in "Fix this" repair) before realising the real fix was a clean re-import under a new filename. Next time, if refresh keeps failing after a couple of genuine attempts, try the rename trick sooner rather than continuing to patch individual steps.
+
+**Next up:**
+Day 17 - rename the scatter plot's default title, clean up the bar chart legend's "Sum of residual" label, then continue building out the dashboard with a summary page bringing both charts together.
+
+---
+
+## Day 17 - [Title]
+**Date:**
+
+**What I did:**
+
+
+**Why I made that choice:**
+
+
+**What I learned:**
+
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**

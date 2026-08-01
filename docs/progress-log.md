@@ -70,3 +70,9 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Started building an interactive Power BI dashboard
 - Imported analysed dataset and created first spend vs life expectancy scatter plot
 - Began transitioning the project from code-based analysis into a stakeholder-facing diagnostic tool
+
+## Day 16 - Scatter plot sizing, Power BI cache bug, and dashboard review
+- Added residual_magnitude column for scatter plot circle sizing
+- Colored scatter plot by performance category with custom colors
+- Diagnosed and fixed a stubborn Power BI caching bug via filename rename
+- Reviewed finished dashboard - two working charts telling a clear diagnostic story
