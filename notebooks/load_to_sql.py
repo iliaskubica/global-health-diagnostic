@@ -65,6 +65,7 @@ trend = np.poly1d(z)
 # Calculate what the trend line predicts for each country, then find the gap (residual)
 combined["predicted_life_exp"] = trend(combined["spend"])
 combined["residual"] = combined["life_exp"] - combined["predicted_life_exp"]
+combined["residual_magnitude"] = combined["residual"].abs()
 
 def label_performance(residual):
     if residual > 0:
