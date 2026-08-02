@@ -317,7 +317,27 @@ Day 17 - rename the scatter plot's default title, clean up the bar chart legend'
 
 ---
 
-## Day 17 - [Title]
+## Day 17 - Dashboard Polish and Caption Writing
+**Date:** 1 August 2026
+
+**What I did:**
+Cleaned up chart titles and legend labels, then wrote and refined captions for both charts through several iterations - moved from describing raw numbers to explaining what's actually notable/surprising in each chart. Corrected an early mistake where the bar chart caption referenced spend figures it doesn't actually display. Removed circle sizing from the scatter plot and updated captions to match. Wrote a nuanced framing for Nigeria's outlier status (resource scarcity, not inefficiency) versus the US (genuine efficiency gap despite being highest spender).
+
+**Why I made that choice:**
+A chart without explanation just shows data; captions are what turn it into a finding someone can act on. Iterating on wording mattered because early drafts either restated numbers already visible on the axis, or referenced information not actually shown on that specific chart.
+
+**What I learned:**
+Captions should describe what's visually notable to a viewer (outliers, surprising clusters) rather than just restating the underlying numbers. Also learned to be precise about which chart "owns" which claim - a claim about spend only belongs on a chart that actually shows spend.
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Day 18 - write the physicians per 1,000 vs life expectancy query and residual analysis, add as a third dashboard visual.
+
+---
+
+## Day 18 - [Title]
 **Date:**
 
 **What I did:**
