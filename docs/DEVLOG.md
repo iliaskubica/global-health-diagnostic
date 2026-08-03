@@ -335,21 +335,41 @@ Captions should describe what's visually notable to a viewer (outliers, surprisi
 **Next up:**
 Day 18 - write the physicians per 1,000 vs life expectancy query and residual analysis, add as a third dashboard visual.
 
+Day 18 - Exploring Physician Density as a Health System Indicator
+
+Date: 29 July 2026
+
+What I did:
+Started extending the analysis beyond health expenditure by exploring physician density (physicians per 1,000 people) as a second health system indicator. Added SQL queries to inspect physician data availability, discovered that only 8 of the 16 countries in the dataset had physician density values available for 2023, and created a cleaned analysis table by merging physician density data with life expectancy data using pandas.
+
+Why I made that choice:
+The previous analysis showed that health spending alone does not fully explain differences in life expectancy, with some countries outperforming or underperforming what their spending level would predict. Added physician density as a different measure of health system capacity to explore whether workforce availability provides another explanation for differences in outcomes. Before analysing the relationship, checked data completeness because missing data can affect conclusions and create misleading comparisons.
+
+What I learned:
+Learned the importance of checking data quality before starting analysis. A missing value (NaN) does not mean a country has zero physicians; it means the data is unavailable, which affects how the results should be interpreted. Also reinforced the workflow used throughout the project: query data from SQL → clean/filter in pandas → merge datasets → prepare for analysis. Continued building confidence with pandas DataFrames and understanding that much of data analysis involves transforming tables into the right structure before applying statistical methods.
+
+What confused me / what I'd do differently:
+Still finding Python syntax difficult to read intuitively, especially understanding the difference between functions, methods, and objects. Realised that I am starting to recognise patterns in code but need more repetition to understand the "grammar" of Python naturally. Would spend more time practising small examples outside of the main project to strengthen fundamentals.
+
+Next up:
+Calculate the relationship between physician density and life expectancy, then investigate whether countries with higher physician availability tend to have better outcomes. If the relationship is meaningful, add regression/residual analysis and consider how it could contribute to the wider health system diagnostic.
+
 ---
 
-## Day 18 - [Title]
-**Date:**
+## Day 18 - Exploring Physician Density as a Second Health System Indicator
+**Date:** 3 August 2026
 
 **What I did:**
-
+Extended the analysis beyond health expenditure by starting to explore physician density (physicians per 1,000 people) as another measure of health system capacity. Added SQL queries to check physician data availability, discovered that only 8 of the 16 countries in the dataset had physician density values available for 2023, and created a cleaned physician density vs life expectancy dataset by removing missing values and merging the two indicators using pandas.
 
 **Why I made that choice:**
-
+The previous spend vs life expectancy analysis showed that healthcare spending alone does not fully explain differences in outcomes, with some countries performing above or below what spending levels would predict. Added physician density as a different way of looking at health system strength - moving from financial resources to workforce capacity. Before analysing the relationship, checked whether the data was complete enough to use, since missing data could affect any conclusions.
 
 **What I learned:**
-
+Learned that data checking needs to happen before analysis, rather than immediately creating charts or calculating relationships. A missing value (`NaN`) does not mean a country has zero physicians; it means the data is unavailable. Also reinforced the workflow used throughout the project: SQL query → pandas cleaning → merge datasets → analysis. Continued improving my understanding of pandas DataFrames and realised that a large part of data analysis is preparing the data structure correctly before applying statistical methods.
 
 **What confused me / what I'd do differently:**
-
+Still finding Python syntax difficult to read naturally, especially understanding the difference between objects, functions, and methods. The code is starting to become more familiar, but I still need repetition before I can quickly understand unfamiliar scripts without breaking them down line by line. Would spend more time practising smaller Python examples alongside the main project to build confidence.
 
 **Next up:**
+Calculate the relationship between physician density and life expectancy, then investigate whether physician availability helps explain differences in health outcomes. If the relationship is meaningful, extend the analysis with regression and residuals, similar to the previous spending analysis.

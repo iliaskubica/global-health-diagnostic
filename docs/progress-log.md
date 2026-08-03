@@ -76,3 +76,14 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Colored scatter plot by performance category with custom colors
 - Diagnosed and fixed a stubborn Power BI caching bug via filename rename
 - Reviewed finished dashboard - two working charts telling a clear diagnostic story
+
+## Day 17 - Dashboard polish and captions
+- Cleaned up chart titles and legend labels
+- Wrote and refined data-driven captions for both charts through multiple iterations
+- Corrected a caption accuracy issue (referencing data not shown on that chart)
+
+## Day 18 - Physician density analysis begins
+- Added SQL queries to explore physician density data availability
+- Found that only 8 of 16 countries had physician density data available for 2023
+- Removed missing values and created a clean physician density vs life expectancy dataset using pandas merge
+- Prepared the dataset for correlation and regression analysis

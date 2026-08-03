@@ -41,6 +41,16 @@ run_query("Top 5 physicians per 1,000 people (2023)", q3, conn)
 q4 = "SELECT country, value FROM indicators WHERE indicator = 'physicians_per_1000' AND year = 2023"
 run_query("Physicians per 1,000 people (2023)", q4, conn)
 
+# Query 5: count countries with physician data available (2023)
+q5 = """
+SELECT COUNT(value) AS countries_with_physician_data
+FROM indicators
+WHERE indicator = 'physicians_per_1000'
+AND year = 2023
+"""
+
+run_query("Number of countries with physician data (2023)", q5, conn)
+
 # --- Pure Python/pandas analysis below (no SQL) ---
 # Pull full 2023 data for two indicators, then compare them side by side
 spend = pd.read_sql("SELECT country, value AS spend FROM indicators WHERE indicator = 'health_expenditure_per_capita' AND year = 2023", conn)
@@ -102,5 +112,28 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 plt.savefig("data/processed/spend_vs_life_expectancy.png", dpi=150, bbox_inches="tight")
 print("\nChart saved to data/processed/spend_vs_life_expectancy.png")
+
+# --- Physician density analysis ---
+
+# Pull physician density and life expectancy data for 2023
+physicians = pd.read_sql(
+    "SELECT country, value AS physicians FROM indicators WHERE indicator = 'physicians_per_1000' AND year = 2023",
+    conn
+)
+
+life = pd.read_sql(
+    "SELECT country, value AS life_exp FROM indicators WHERE indicator = 'life_expectancy' AND year = 2023",
+    conn
+)
+
+# Remove countries where physician data is missing
+physicians = physicians.dropna()
+
+# Combine physician data with life expectancy
+physician_combined = physicians.merge(life, on="country")
+
+print("\nPhysician density and life expectancy:")
+print(physician_combined)
+
 
 conn.close()
