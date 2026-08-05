@@ -135,5 +135,7 @@ physician_combined = physicians.merge(life, on="country")
 print("\nPhysician density and life expectancy:")
 print(physician_combined)
 
+physician_correlation = physician_combined["physicians"].corr(physician_combined["life_exp"])
+print(f"\nCorrelation between physician density and life expectancy: {physician_correlation:.2f}")
 
 conn.close()
