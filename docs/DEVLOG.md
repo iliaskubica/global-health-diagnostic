@@ -373,3 +373,40 @@ Still finding Python syntax difficult to read naturally, especially understandin
 
 **Next up:**
 Calculate the relationship between physician density and life expectancy, then investigate whether physician availability helps explain differences in health outcomes. If the relationship is meaningful, extend the analysis with regression and residuals, similar to the previous spending analysis.
+
+## Day 19 - Physician Density Residual Analysis
+**Date:** 5 August 2026
+
+**What I did:**
+Completed the physician density analysis started on Day 18 - calculated the correlation between physician density and life expectancy (0.82, notably stronger than spend's 0.59), then built a trend line and residual calculation, largely writing the code myself with corrections along the way.
+
+**Why I made that choice:**
+Wanted to see whether workforce capacity (physicians per capita) predicts outcomes better than financial spend does - it does, more strongly, which is a genuinely interesting finding worth including in the eventual briefing.
+
+**What I learned:**
+Reinforced the full pattern (correlation - trend line - predicted value - residual) by rebuilding it for a second, different indicator instead of just repeating the first one. Made and caught real mistakes along the way - mixing up table names (combined vs physician_combined), and leaving conn.close() in the wrong place - which is a genuine sign of understanding the code's structure, not just copying it.
+
+**What confused me / what I'd do differently:**
+Felt overwhelmed partway through, and had a moment of feeling behind on the project overall - worth remembering that struggling through a real independent attempt is a sign of progress, not a lack of it.
+
+**Next up:**
+Day 20 - add physician density as a third dashboard visual, matching the pattern of the existing bar chart.
+
+---
+
+## Day 20 - [Title]
+**Date:**
+
+**What I did:**
+
+
+**Why I made that choice:**
+
+
+**What I learned:**
+
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**

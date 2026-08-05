@@ -87,3 +87,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Found that only 8 of 16 countries had physician density data available for 2023
 - Removed missing values and created a clean physician density vs life expectancy dataset using pandas merge
 - Prepared the dataset for correlation and regression analysis
+
+## Day 19 - Physician density residual analysis
+- Calculated physician density correlation (0.82) and residuals, largely independently
+- Found physician density predicts outcomes more strongly than spend
+- Confirmed Nigeria/Bangladesh as consistent outliers across two different indicators
