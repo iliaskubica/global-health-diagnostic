@@ -138,4 +138,13 @@ print(physician_combined)
 physician_correlation = physician_combined["physicians"].corr(physician_combined["life_exp"])
 print(f"\nCorrelation between physician density and life expectancy: {physician_correlation:.2f}")
 
+z = np.polyfit(physician_combined["physicians"], physician_combined["life_exp"], 1)
+trend = np.poly1d(z)
+
+physician_combined["predicted_life_exp"] = trend(physician_combined["physicians"])
+physician_combined["residual"] = physician_combined["life_exp"] - physician_combined["predicted_life_exp"]
+
+print("\nPhysician density with residuals:")
+print(physician_combined)
+
 conn.close()
