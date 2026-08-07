@@ -40,6 +40,7 @@ See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan: objective, rationale, 
 ## Findings & Recommendations
 
 To be added once SQL and Python analysis are complete - a one-page consultancy-style briefing.
+Recommendations will be based on findings and current affairs
 
 ## Sample Finding
 
