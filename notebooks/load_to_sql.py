@@ -147,4 +147,8 @@ physician_combined["residual"] = physician_combined["life_exp"] - physician_comb
 print("\nPhysician density with residuals:")
 print(physician_combined)
 
+physician_combined.to_csv("data/processed/physician_life_expectancy_analysis.csv", index=False)
+print("\nSaved physician analysis for Power BI: data/processed/physician_life_expectancy_analysis.csv")
+
+
 conn.close()
