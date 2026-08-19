@@ -394,7 +394,27 @@ Day 20 - add physician density as a third dashboard visual, matching the pattern
 
 ---
 
-## Day 20 - [Title]
+## Day 20 - Back on Track, Third Chart Started
+**Date:** 19 August 2026
+
+**What I did:**
+Returned to the project after a break. Did a retention check first (4/4 on core concepts - SQL, pandas, residuals, Git basics all held up well despite the gap). Exported the physician density analysis to its own CSV, imported it into Power BI as a new table, resized the canvas for a cleaner 4-chart layout, and got the third chart (physician density residuals) loaded with data - 8 bars, matching the 8 countries with available physician data.
+
+**Why I made that choice:**
+Wanted to confirm the fundamentals were still solid before diving back into new work, rather than assuming either way. Kept today's session short and focused on just getting back into the rhythm rather than trying to do too much in one sitting after time away.
+
+**What I learned:**
+Power BI's canvas size is fully customisable (Format with nothing selected - Canvas settings - Custom), not fixed to the default 16:9 - useful for planning a multi-chart layout properly instead of fighting the default proportions.
+
+**What confused me / what I'd do differently:**
+New visuals in Power BI always drop in the same default spot regardless of existing content, so they land on top of whatever's already there rather than snapping into an empty area - just needs manual repositioning each time.
+
+**Next up:**
+Day 21 - apply the gradient/color formatting to the third chart, add title and caption, then arrange all three charts into the finished grid layout.
+
+---
+
+## Day 21 - [Title]
 **Date:**
 
 **What I did:**

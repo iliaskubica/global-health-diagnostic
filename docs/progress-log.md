@@ -92,3 +92,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Calculated physician density correlation (0.82) and residuals, largely independently
 - Found physician density predicts outcomes more strongly than spend
 - Confirmed Nigeria/Bangladesh as consistent outliers across two different indicators
+
+## Day 20 - Back on track, third chart started
+- Confirmed retention after a break (4/4 on core concepts)
+- Exported physician density analysis, imported into Power BI
+- Resized canvas, started building third chart (physician density residuals)
