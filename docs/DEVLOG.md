@@ -414,7 +414,27 @@ Day 21 - apply the gradient/color formatting to the third chart, add title and c
 
 ---
 
-## Day 21 - [Title]
+## Day 21 - Third Chart Formatting
+**Date:** 20 August 2026
+
+**What I did:**
+Applied the gradient color formatting to the third chart (physician density residuals), matching the style of the first bar chart - minimum -11 (red) to maximum 8 (green), decimal places set to 0 on the axis.
+
+**Why I made that choice:**
+Kept the same visual language (gradient direction, color choice) across both bar charts so the dashboard reads consistently, rather than each chart looking like it was built separately.
+
+**What I learned:**
+Recalled the Power BI formatting steps correctly from memory after a short quiz, without needing a full walkthrough - a good sign the process is becoming more automatic.
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Day 22 - add title and caption to the third chart, then arrange all three charts into the finished grid layout.
+
+---
+
+## Day 22 - [Title]
 **Date:**
 
 **What I did:**

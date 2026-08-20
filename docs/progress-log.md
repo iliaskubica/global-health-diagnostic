@@ -97,3 +97,6 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Confirmed retention after a break (4/4 on core concepts)
 - Exported physician density analysis, imported into Power BI
 - Resized canvas, started building third chart (physician density residuals)
+
+## Day 21 - Third chart formatting
+- Applied gradient color formatting to the physician density chart, matching the first bar chart's style
