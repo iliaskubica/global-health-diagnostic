@@ -434,7 +434,27 @@ Day 22 - add title and caption to the third chart, then arrange all three charts
 
 ---
 
-## Day 22 - [Title]
+## Day 22 - Third Chart Complete
+**Date:** 21 August 2026
+
+**What I did:**
+Added a title and caption to the third chart (physician density residuals), highlighting Bangladesh and Indonesia as overperformers and Nigeria as the clearest underperformer - consistent with the earlier spend analysis. Also manually changed the font color of the three called-out countries and fixed the X-axis label from the default "Sum of residual" to just "Residual."
+
+**Why I made that choice:**
+Wanted the caption to be precise rather than lumping similar-but-different results together - Bangladesh's overperformance is noticeably stronger than Indonesia's, so called that out specifically rather than treating them as equally standout. Noted the cross-chart consistency (Nigeria underperforming on both spend and physician density) since two independent indicators agreeing is a stronger finding than either alone.
+
+**What I learned:**
+Small precision in wording matters - describing two different-magnitude results as equally "standout" understates a real difference in the data.
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Day 23 - arrange all three charts into a finished dashboard layout.
+
+---
+
+## Day 23 - [Title]
 **Date:**
 
 **What I did:**
