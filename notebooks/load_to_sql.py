@@ -48,8 +48,11 @@ FROM indicators
 WHERE indicator = 'physicians_per_1000'
 AND year = 2023
 """
-
 run_query("Number of countries with physician data (2023)", q5, conn)
+
+# Query6: top 5 maternal mortality ratio (2023)
+q6 = "SELECT country, value FROM indicators WHERE indicator = 'maternal_mortality_ratio' AND year = 2023 ORDER BY value DESC LIMIT 5"
+run_query("Top 5 maternal mortality ratio (2023)", q6, conn)
 
 # --- Pure Python/pandas analysis below (no SQL) ---
 # Pull full 2023 data for two indicators, then compare them side by side
@@ -150,5 +153,25 @@ print(physician_combined)
 physician_combined.to_csv("data/processed/physician_life_expectancy_analysis.csv", index=False)
 print("\nSaved physician analysis for Power BI: data/processed/physician_life_expectancy_analysis.csv")
 
+# --- Maternal mortality analysis ---
+mortality = pd.read_sql("SELECT country, value AS mortality FROM indicators WHERE indicator = 'maternal_mortality_ratio' AND year = 2023", conn)
+mortality = mortality.dropna()
+
+mortality_combined = mortality.merge(life, on="country")
+
+mortality_correlation = mortality_combined["mortality"].corr(mortality_combined["life_exp"])
+print(f"\nCorrelation between maternal mortality and life expectancy: {mortality_correlation:.2f}")
+
+z = np.polyfit(mortality_combined["mortality"], mortality_combined["life_exp"], 1)
+trend = np.poly1d(z)
+
+mortality_combined["predicted_life_exp"] = trend(mortality_combined["mortality"])
+mortality_combined["residual"] = mortality_combined["life_exp"] - mortality_combined["predicted_life_exp"]
+
+print("\nMaternal mortality with residuals:")
+print(mortality_combined)
+
+mortality_combined.to_csv("data/processed/mortality_life_expectancy_analysis.csv", index=False)
+print("\nSaved maternal mortality analysis for Power BI: data/processed/mortality_life_expectancy_analysis.csv")
 
 conn.close()
