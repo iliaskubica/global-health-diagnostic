@@ -454,7 +454,27 @@ Day 23 - arrange all three charts into a finished dashboard layout.
 
 ---
 
-## Day 23 - [Title]
+## Day 23 - Maternal Mortality Analysis
+**Date:** 22 August 2026
+
+**What I did:**
+Ran a third full independent analysis - maternal mortality ratio vs life expectancy. Correlation came out at -0.80 (negative, as expected - higher mortality, lower life expectancy), the strongest relationship of the three indicators analysed so far. Decided against adding a second bar chart or second scatter plot to the dashboard for visual variety, and identified maternal mortality as a genuinely different indicator worth analysing instead.
+
+**Why I made that choice:**
+Two bar charts back to back felt repetitive rather than showcasing range. A third genuinely different indicator, rather than reformatting the same finding into a different chart type, adds real analytical depth instead of just visual variety for its own sake.
+
+**What I learned:**
+A genuinely interesting nuance showed up in the results: Nigeria overperforms on this specific metric (+4.1 residual), unlike the spend and physician analyses where it was the clearest underperformer. This suggests Nigeria's low life expectancy is well explained by its extremely high maternal mortality rate specifically, rather than being a broad, unexplained gap across every indicator - a more precise, defensible finding than a blanket "Nigeria underperforms."
+
+**What confused me / what I'd do differently:**
+Laptop was lagging badly today, which made hands-on coding difficult - had the analysis written out fully rather than typing it myself this session.
+
+**Next up:**
+Day 24 - bring maternal mortality into Power BI as a genuinely distinct fourth visual, then finalise dashboard layout.
+
+---
+
+## Day 24 - [Title]
 **Date:**
 
 **What I did:**

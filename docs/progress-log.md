@@ -105,3 +105,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Added title and caption to physician density chart
 - Fixed axis labeling and highlighted key countries
 - All three dashboard charts now complete (titles, formatting, captions)
+
+## Day 23 - Maternal mortality analysis
+- Ran third independent analysis: maternal mortality vs life expectancy (correlation -0.80)
+- Found Nigeria overperforms on this metric specifically, unlike spend/physician analyses
+- Decided against repetitive chart types, chose analytical depth over chart variety
