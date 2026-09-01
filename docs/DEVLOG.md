@@ -474,7 +474,27 @@ Day 24 - bring maternal mortality into Power BI as a genuinely distinct fourth v
 
 ---
 
-## Day 24 - [Title]
+## Day 24 - Quick Review
+**Date:** 1 September 2026
+
+**What I did:**
+Light touch day - reviewed the dashboard and existing charts, made some small visual adjustments.
+
+**Why I made that choice:**
+Wanted to keep momentum going even on a day without much time for deeper work.
+
+**What I learned:**
+
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Day 25 - bring maternal mortality into Power BI as the fourth visual, then finalise dashboard layout.
+
+---
+
+## Day 25 - [Title]
 **Date:**
 
 **What I did:**
