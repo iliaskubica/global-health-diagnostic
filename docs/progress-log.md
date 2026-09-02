@@ -113,3 +113,9 @@ Daily build log for the Global Health System Performance Diagnostic project.
 
 ## Day 24 - Quick review
 - Reviewed dashboard and made minor adjustments
+
+## Day 25 - Visual refinement and dashboard polish
+
+- Edited existing Power BI visuals and made small quality-of-life improvements to charts
+
+- Improved formatting, readability and consistency across the dashboard

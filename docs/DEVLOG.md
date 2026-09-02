@@ -494,19 +494,42 @@ Day 25 - bring maternal mortality into Power BI as the fourth visual, then final
 
 ---
 
-## Day 25 - [Title]
+## Day 25 - Visual Refinement and Dashboard Polish
+
+**Date:** 2 September 2026
+
+**What I did:**
+
+Spent the day editing the existing visuals and making small quality-of-life improvements to the charts and dashboard. Focused mainly on presentation, readability and consistency rather than adding new analysis.
+
+**Why I made that choice:**
+
+The main analysis was already in place, so I wanted to improve how clearly the findings were presented. Small changes to formatting, layout and visual consistency make the dashboard easier to understand and feel more polished.
+
+**What I learned:**
+
+Learned that getting a chart to work is only part of building a useful dashboard - formatting, labels, spacing and consistency all make a difference to how easily someone can interpret the results.
+
+**What confused me / what I'd do differently:**
+
+Some of the visual formatting options in Power BI took a bit of experimenting to get right. In future, I would probably think about the overall visual style earlier rather than making formatting decisions one chart at a time.
+
+**Next up:**
+
+Day 26 - bring maternal mortality into Power BI as the fourth visual, then finalise dashboard layout.
+
+---
+
+## Day 26 - [Title]
+
 **Date:**
 
 **What I did:**
 
-
 **Why I made that choice:**
-
 
 **What I learned:**
 
-
 **What confused me / what I'd do differently:**
 
-
-**Next up:**
+Next up:
