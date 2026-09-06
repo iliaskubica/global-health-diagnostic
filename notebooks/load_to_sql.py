@@ -174,4 +174,8 @@ print(mortality_combined)
 mortality_combined.to_csv("data/processed/mortality_life_expectancy_analysis.csv", index=False)
 print("\nSaved maternal mortality analysis for Power BI: data/processed/mortality_life_expectancy_analysis.csv")
 
+mortality_combined_sorted = mortality_combined.sort_values("residual", ascending=True)
+print("\nMaternal mortality data sorted by residual (worst to best):")
+print(mortality_combined_sorted)
+
 conn.close()
