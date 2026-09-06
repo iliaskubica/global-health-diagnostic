@@ -520,16 +520,39 @@ Day 26 - bring maternal mortality into Power BI as the fourth visual, then final
 
 ---
 
-## Day 26 - [Title]
+## Day 26 - Sorting and Data Review
+**Date:** [today's date]
 
+**What I did:**
+Sorted the maternal mortality dataset by residual, worst to best, as a sanity check before visualizing. Kenya came out as the worst performer on this specific metric, Japan the best.
+
+**Why I made that choice:**
+Sorting by residual makes outliers immediately visible without having to scan the whole table manually - a quick, useful check before building any chart from the data.
+
+**What I learned:**
+.sort_values(ascending=True) reorders a whole table by a chosen column, smallest first - useful as a lightweight validation step before visualization, not just for display.
+
+**What confused me / what I'd do differently:**
+First attempt didn't actually save before running, so the commit had zero real changes - reinforced the importance of checking the save indicator (the dot on the VS Code tab) before running or committing, especially after a gap in routine.
+
+**Next up:**
+Day 27 - bring maternal mortality into Power BI as the fourth visual, then finalise dashboard layout.
+
+---
+
+## Day 27 - [Title]
 **Date:**
 
 **What I did:**
 
+
 **Why I made that choice:**
+
 
 **What I learned:**
 
+
 **What confused me / what I'd do differently:**
 
-Next up:
+
+**Next up:**

@@ -119,3 +119,7 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Edited existing Power BI visuals and made small quality-of-life improvements to charts
 
 - Improved formatting, readability and consistency across the dashboard
+
+## Day 26 - Sorting and data review
+- Sorted maternal mortality data by residual for a quick outlier check
+- Kenya identified as worst performer on this metric, Japan as best
