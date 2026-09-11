@@ -123,3 +123,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 ## Day 26 - Sorting and data review
 - Sorted maternal mortality data by residual for a quick outlier check
 - Kenya identified as worst performer on this metric, Japan as best
+
+## Day 27 - Fourth visual and dashboard review
+- Built fourth visual: formatted table with conditional color formatting (maternal mortality)
+- Fixed cross-filtering and marker sizing issues
+- Reviewed full four-visual dashboard; identified remaining polish items

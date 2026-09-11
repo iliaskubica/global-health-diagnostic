@@ -521,7 +521,7 @@ Day 26 - bring maternal mortality into Power BI as the fourth visual, then final
 ---
 
 ## Day 26 - Sorting and Data Review
-**Date:** [today's date]
+**Date:** 3 September 2026
 
 **What I did:**
 Sorted the maternal mortality dataset by residual, worst to best, as a sanity check before visualizing. Kenya came out as the worst performer on this specific metric, Japan the best.
@@ -540,7 +540,27 @@ Day 27 - bring maternal mortality into Power BI as the fourth visual, then final
 
 ---
 
-## Day 27 - [Title]
+## Day 27 - Fourth Visual and Full Dashboard Review
+**Date:** 11 September 2026
+
+**What I did:**
+Imported the maternal mortality data into Power BI and built the fourth visual - a formatted table with conditional color formatting on the residual column, giving the dashboard a genuinely different format alongside the two bar charts and the scatter plot. Fixed cross-filtering getting stuck on individual countries, resized oversized scatter plot markers, and did a full review of all four visuals together.
+
+**Why I made that choice:**
+Wanted a fourth format that wasn't just another bar chart or scatter plot - a table lets viewers see exact numbers across all three analyses in one place, which the charts alone don't offer.
+
+**What I learned:**
+Power BI's cross-filtering (clicking a data point highlights it across all visuals) is a built-in feature, not a bug - cleared with Esc or by clicking empty canvas space. Renaming a field to remove "Sum of" needs to happen specifically in the Values field well of the Build visual tab, not the main Data panel - hadn't fully located the right spot yet.
+
+**What confused me / what I'd do differently:**
+On reviewing the finished dashboard, noticed the two bar charts (spend and physician density) still look quite repetitive sitting stacked next to each other, despite the scatter plot and table adding variety elsewhere. Also still have a few "Sum of" labels left to clean up (table headers, scatter plot Y-axis), and one caption text getting cut off.
+
+**Next up:**
+Day 28 - fix remaining "Sum of" labels, add missing titles, trim the cut-off caption, and reconsider panel 3 (physician density) as a different chart type to reduce repetition with panel 1.
+
+---
+
+## Day 28 - [Title]
 **Date:**
 
 **What I did:**
