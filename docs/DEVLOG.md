@@ -560,7 +560,27 @@ Day 28 - fix remaining "Sum of" labels, add missing titles, trim the cut-off cap
 
 ---
 
-## Day 28 - [Title]
+## Day 28 - Dashboard Fixes and Shipping
+**Date:** 13 September 2026
+
+**What I did:**
+Fixed all remaining "Sum of" labels across the dashboard, added proper titles throughout, reworked the physician density chart with value labels for a genuinely different look from the top-left bar chart, and fixed the cut-off caption. Attempted to publish the dashboard live via Power BI's Publish to Web (blocked - requires a work/school account) and Power BI Service with a personal account (also didn't work cleanly). Settled on a screenshot embedded in the README plus the actual .pbix file uploaded to the repo, so anyone can view the finished result or open the real interactive file themselves.
+
+**Why I made that choice:**
+A fully public interactive link would have been ideal, but Microsoft's personal-account restrictions made that a genuine dead end rather than something fixable with more effort. A screenshot plus the real source file is a completely credible, common way to share BI work in a portfolio when live hosting isn't available.
+
+**What I learned:**
+Power BI's "Publish to Web" specifically requires a Microsoft work/school account - a real platform limitation, not a settings issue. Good practice to verify units on an axis (checked health expenditure was per-capita in current US$, not some other scale) before finalising labels, rather than assuming.
+
+**What confused me / what I'd do differently:**
+Spent some time trying to get a personal Power BI account to publish before accepting it wasn't going to work cleanly - worth checking platform account requirements earlier before investing time in a workaround.
+
+**Next up:**
+Day 29 - write the findings briefing (the final deliverable from the original roadmap), pulling together the spend, physician density, and maternal mortality findings into one coherent narrative.
+
+---
+
+## Day 29 - [Title]
 **Date:**
 
 **What I did:**

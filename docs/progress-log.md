@@ -128,3 +128,8 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Built fourth visual: formatted table with conditional color formatting (maternal mortality)
 - Fixed cross-filtering and marker sizing issues
 - Reviewed full four-visual dashboard; identified remaining polish items
+
+## Day 28 - Dashboard fixes and shipping
+- Fixed remaining "Sum of" labels and added consistent titles across all 4 visuals
+- Attempted live publishing (blocked by account restrictions), shipped via screenshot + .pbix file instead
+- Dashboard now fully documented and shareable in the repo
