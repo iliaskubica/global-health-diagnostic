@@ -48,6 +48,12 @@ Recommendations will be based on findings and current affairs
 
 Health expenditure per capita and life expectancy show a moderate positive correlation (0.59) across the 16 countries in this dataset — but with significant variation, suggesting spend alone doesn't determine outcomes.
 
+## Dashboard
+
+![Full dashboard](data/processed/dashboard_overview.png)
+
+Four linked visuals analysing health spend, physician density, and maternal mortality against life expectancy - each measuring how far a country's outcomes deviate from what its resources alone would predict. The full interactive file (`dashboard/global_health_dashboard.pbix`) is included in this repo and can be opened in Power BI Desktop.
+
 ## Author
 
 Ilias Kubica - [LinkedIn](https://linkedin.com/in/iliaskubica)
