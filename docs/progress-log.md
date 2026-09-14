@@ -133,3 +133,9 @@ Daily build log for the Global Health System Performance Diagnostic project.
 - Fixed remaining "Sum of" labels and added consistent titles across all 4 visuals
 - Attempted live publishing (blocked by account restrictions), shipped via screenshot + .pbix file instead
 - Dashboard now fully documented and shareable in the repo
+
+## Day 29 - Findings briefing complete
+- Wrote and finalised a one-page findings briefing tying together all three analyses
+- Caught and corrected an inaccurate assumption about the US's performance before publishing
+- Generated the briefing as a formatted PDF
+- Project now complete against the original Day 1 roadmap

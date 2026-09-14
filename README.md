@@ -42,6 +42,10 @@ See [docs/ROADMAP.md](docs/ROADMAP.md) for the full plan: objective, rationale, 
 To be added once SQL and Python analysis are complete - a one-page consultancy-style briefing.
 Recommendations will be based on findings and current affairs
 
+## Findings Briefing
+
+[Read the full findings briefing (PDF)](docs/findings_briefing.pdf)
+
 ## Sample Finding
 
 ![Health spend vs life expectancy](data/processed/spend_vs_life_expectancy.png)

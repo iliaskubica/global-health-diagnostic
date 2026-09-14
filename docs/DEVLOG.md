@@ -580,7 +580,27 @@ Day 29 - write the findings briefing (the final deliverable from the original ro
 
 ---
 
-## Day 29 - [Title]
+## Day 29 - Findings Briefing Complete
+**Date:** 14 Septmeber 2026
+
+**What I did:**
+Drafted and finalised the project's findings briefing - a one-page, consultancy-style document tying together all three analyses (spend, physician density, maternal mortality) into a single narrative with situation, three key findings, a recommendation, and a methodology/limitations note. Caught and corrected a framing mistake before writing it up - initially thought the US underperformed across all three indicators, but checking the actual numbers showed it only underperforms on spend, has no physician data, and slightly overperforms on maternal mortality. Built the final document as a PDF using Python (reportlab).
+
+**Why I made that choice:**
+A findings briefing is the piece that turns four separate charts into one coherent diagnostic - it's the deliverable a real stakeholder would actually read, and it's what makes the project's "consultancy-style" framing genuine rather than just a label on the README.
+
+**What I learned:**
+The importance of checking specific numbers before writing a conclusion, even ones that feel intuitively right - the "US underperforms everywhere" assumption was wrong and would have gone into a permanent document if not checked against the actual data first. Also got a first look at generating a formatted PDF programmatically rather than through a design tool.
+
+**What confused me / what I'd do differently:**
+
+
+**Next up:**
+Project complete against the original roadmap. Future sessions: polish items (physician chart title styling), a second portfolio project, or deeper SQL/Python interview practice.
+
+---
+
+## Day 30 - [Title]
 **Date:**
 
 **What I did:**
